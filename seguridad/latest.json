@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-13T19:49:59Z",
-  "notes": "Fix: plantilla de seed sin duplicados (345 unicos)",
-  "version": "0.1.4",
+  "notes": "E2E update: verificar flujo automatico completo",
+  "version": "0.1.5",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.4/CamuriSeguridad_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVqMlV0L0lwWTZqZTFrUEMyZGZUZVpDUWtsMzRsUnM5OEVFQktSWkpNWWxza3ZvSUUxZWdtQ0tNT0F3VUNFa05tYzNmeE41ZmtCb0ZucmFzd3U0NkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUwNTk3CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS40X3g2NC1zZXR1cC5leGUKRFVYOEs2RkM3czJ6RGIxUlB3bFRNd1VMVG5vajE3ajA0TjR4bWdYSzNGWmZZTDJiTnNsZ3hxUFpuL3hEK1RPQXhPWkVPNlJPeDJtNGY2N3FCampTQ0E9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlvUXZuK0FKRURXRzIrSFBHTTYzUVMvSjZCTWNCKzJTM2lBZGFkU0tIMXVCdENoc0R0WUVUYkdHMDZtVDBTTlVhZFhZc0ltMk5aaG9FM0ZtcWZyYVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUxMDMxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS41X3g2NC1zZXR1cC5leGUKM1EvZmlpZ0ZSWDljcitEb2ZYQVFaanhad3g3VEFMMTVsSUdQZW9ua3RaL3d3Qm13c1ZFRGx0RTdJRFBjb0pTdHlwZXIwNlVlTVNTSzZIRm41ZGt6QlE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.5/CamuriSeguridad_0.1.5_x64-setup.exe"
     }
-  }
+  },
+  "pub_date": "2026-08-13T19:57:12Z"
 }
