@@ -1,11 +1,11 @@
 {
-  "notes": "E2E update: verificar flujo automatico completo",
-  "version": "0.1.5",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlvUXZuK0FKRURXRzIrSFBHTTYzUVMvSjZCTWNCKzJTM2lBZGFkU0tIMXVCdENoc0R0WUVUYkdHMDZtVDBTTlVhZFhZc0ltMk5aaG9FM0ZtcWZyYVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUxMDMxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS41X3g2NC1zZXR1cC5leGUKM1EvZmlpZ0ZSWDljcitEb2ZYQVFaanhad3g3VEFMMTVsSUdQZW9ua3RaL3d3Qm13c1ZFRGx0RTdJRFBjb0pTdHlwZXIwNlVlTVNTSzZIRm41ZGt6QlE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.5/CamuriSeguridad_0.1.5_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.6/CamuriSeguridad_0.1.6_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnlKYkdTVkUzZ0NDOGFpaWZKNjMzUXZqRk1uQmhXZTBLeXhSYXNZb292QUtObUd4MDVXeE56YzlmRTh4bU5wTWQyU3lRTWhMUUpDSStYSmZDSWR3eEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUzMDE4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS42X3g2NC1zZXR1cC5leGUKRE5LSVV4V2d6QTY0RU14Q1pVenVTcHhPWU0ydTY5VUc5TC9Jcm1ZMTZKa09naVJOczRRdERic1dyUERLYzI5RjVOd2VZa2VzZzh2M2VHQ0FtV2JTQkE9PQo="
     }
   },
-  "pub_date": "2026-08-13T19:57:12Z"
+  "notes": "Fix UI critico: grid de apartamentos en varias columnas (Tailwind v4 + @source monorepo)",
+  "version": "0.1.6",
+  "pub_date": "2026-08-13T20:30:19Z"
 }
