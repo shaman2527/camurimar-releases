@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-08-13T19:49:59Z",
+  "notes": "Fix: plantilla de seed sin duplicados (345 unicos)",
+  "version": "0.1.4",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.3/CamuriSeguridad_0.1.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mng2ZWZORWhRRkp4NEdVVWl2ZmsvOFFFMWlXTTM4aVQweUtQcmZWaWZQY053R0R4aTg3SG4ycjRrMzByZmRDM2lWZUx4WmJXTWo2ckhRRC9qMEUxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUwMTczCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS4zX3g2NC1zZXR1cC5leGUKMTM0bmNnVWdCbVIxYWZjKzRRT0hZeU9zbEtoQ1BxWDVuaVZnS3E0elNKNmdtL3V3RUVKVXF4SjlzNnI4YjUxMjJhRzNnNTVud05VTUJackJmRVJaREE9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.4/CamuriSeguridad_0.1.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVqMlV0L0lwWTZqZTFrUEMyZGZUZVpDUWtsMzRsUnM5OEVFQktSWkpNWWxza3ZvSUUxZWdtQ0tNT0F3VUNFa05tYzNmeE41ZmtCb0ZucmFzd3U0NkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUwNTk3CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS40X3g2NC1zZXR1cC5leGUKRFVYOEs2RkM3czJ6RGIxUlB3bFRNd1VMVG5vajE3ajA0TjR4bWdYSzNGWmZZTDJiTnNsZ3hxUFpuL3hEK1RPQXhPWkVPNlJPeDJtNGY2N3FCampTQ0E9PQo="
     }
-  },
-  "pub_date": "2026-08-13T19:42:54Z",
-  "notes": "Fix: seed siembra tambien DB vacia (upgrade) + web garita con 401 JSON limpio",
-  "version": "0.1.3"
+  }
 }
