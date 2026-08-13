@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-08-13T21:09:01Z",
+  "notes": "E2E final: verificar update automatico de verdad",
+  "version": "0.1.9",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNxZjkrNHRnbEEycm5PZ1Vhdmk2WjhyTnoyNHBSTkp3cWVxbFpya0FLN1BieG9BSmZLcTJLQk92U2FPVENORFloNkJQRWwrNzREWVkvNXhTbXNRUVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU1MDI1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS44X3g2NC1zZXR1cC5leGUKL0lSa3RGdTlDeklqR2podXczNjVITTdkbWlNN2NVNno0WTVOa1AzWlVnK2x1ek04eERuZWNadFhGTXZXU25nb2lPWkhGeXpWdnVBK2xCcU92SWlVQnc9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.8/CamuriSeguridad_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnphbldESUlrMzBEc0hQREFwdkZEUWdqcnB3c3FOeGlNRXhadmt4bFhhNlY0d1NEc3RaT1ZNd0pYd1Z2dERLWVRzd0JmMnRCYnlZZ0U2K3pCS3VETlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU1MzQwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS45X3g2NC1zZXR1cC5leGUKbTlZbUxXQnpvY0EvTlJJZHdoZlNVYm05bjhpdVRsb3puMUJyWlRuck5FalgvRG40RlFEa0Qxc1dsNEJadlpOMHJkb3Q2WjRad1BpL2VxZVl0MFk5QVE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.9/CamuriSeguridad_0.1.9_x64-setup.exe"
     }
-  },
-  "version": "0.1.8",
-  "notes": "Fix critico: plugin updater registrado correctamente (API Builder)",
-  "pub_date": "2026-08-13T21:03:46Z"
+  }
 }
