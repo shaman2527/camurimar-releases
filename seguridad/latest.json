@@ -1,11 +1,11 @@
 {
+  "notes": "Fix garita desktop: BingoGrid carga datos desde SQLite local (invoke), historial y entrada/salida via Rust, sin error de JSON",
+  "pub_date": "2026-08-13T18:55:55Z",
+  "version": "0.1.1",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVFNkc1QkVUWFFBejZpVEZuRG95Ly9IVkZyNGhzYlI5Z1Q3cEs5VkdVeW81ZCt3OS9uVHF2ZUxwbFRvcSs4UFhvcUNOUE90SCt4Q25xaE0yWXNLK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjM5NTQxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS4wX3g2NC1zZXR1cC5leGUKTHRtNGhKWXdtWnhkT1FibXd2SGZHWHE0cUwrS2VqQWxhN0duQ1Boa0h3ckdVaHB6RXJhMmRYNXduRXQzdmdqTFNSNDFzYm5tMmtTVkw0ekN4dDZJRGc9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.0/CamuriSeguridad_0.1.0_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.1/CamuriSeguridad_0.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mnh1OFNoUWlHa0R5Z1ZiMjhwV3oyRmY5dFRaYTRHV3hDaGt3U2pDeHliTDRsdE5jdVJZcS9JUXZRTXo2TEtYQWFRN1d1ZlBVV0M1Q0NJMG54V2NhbGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQ3MzUzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS4xX3g2NC1zZXR1cC5leGUKajF3L1lncjlxTU9aS0NaREE2eVByUXZJMjZ0R0JoSE1RdWhOWTZNazNCSmR6QVo5ZGNJczF2Ym9vUUFGTXRBT2RudnR0UExHNVpMdC9rcU51RFU3QWc9PQo="
     }
-  },
-  "pub_date": "2026-08-13T16:45:45Z",
-  "version": "0.1.0",
-  "notes": "Lanzamiento inicial: sistema de actualizaciones automaticas con respaldo, rollback y watchdog"
+  }
 }
