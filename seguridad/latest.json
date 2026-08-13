@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-13T20:47:25Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.7/CamuriSeguridad_0.1.7_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi93MVY1SkJXa044bWlaSlF0cGM5MC9BQ1JrRzZ4bTNoQ2FuN250NWFFc1hidHU4VHRyY2RJMW52OXlZdFc2d2MzQ203MEQwWDZVdHVZajRFMHFGWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU0MDQzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS43X3g2NC1zZXR1cC5leGUKcXF6QnF0V0Y5MXUxb1VvbVNzMWh0cUNJL09ERldVZ0hTRnNadzZMbmc3RExjZkZpL2lWUDdsSFMxR0dxR3U3bW8yb3IxNzNNMGF6Z0NJUEtrbTR1Q1E9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNxZjkrNHRnbEEycm5PZ1Vhdmk2WjhyTnoyNHBSTkp3cWVxbFpya0FLN1BieG9BSmZLcTJLQk92U2FPVENORFloNkJQRWwrNzREWVkvNXhTbXNRUVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU1MDI1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS44X3g2NC1zZXR1cC5leGUKL0lSa3RGdTlDeklqR2podXczNjVITTdkbWlNN2NVNno0WTVOa1AzWlVnK2x1ek04eERuZWNadFhGTXZXU25nb2lPWkhGeXpWdnVBK2xCcU92SWlVQnc9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.8/CamuriSeguridad_0.1.8_x64-setup.exe"
     }
   },
-  "notes": "Debug update automatico (E2E)",
-  "version": "0.1.7"
+  "version": "0.1.8",
+  "notes": "Fix critico: plugin updater registrado correctamente (API Builder)",
+  "pub_date": "2026-08-13T21:03:46Z"
 }
