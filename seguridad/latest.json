@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-08-13T20:47:25Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.6/CamuriSeguridad_0.1.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnlKYkdTVkUzZ0NDOGFpaWZKNjMzUXZqRk1uQmhXZTBLeXhSYXNZb292QUtObUd4MDVXeE56YzlmRTh4bU5wTWQyU3lRTWhMUUpDSStYSmZDSWR3eEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUzMDE4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS42X3g2NC1zZXR1cC5leGUKRE5LSVV4V2d6QTY0RU14Q1pVenVTcHhPWU0ydTY5VUc5TC9Jcm1ZMTZKa09naVJOczRRdERic1dyUERLYzI5RjVOd2VZa2VzZzh2M2VHQ0FtV2JTQkE9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.7/CamuriSeguridad_0.1.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi93MVY1SkJXa044bWlaSlF0cGM5MC9BQ1JrRzZ4bTNoQ2FuN250NWFFc1hidHU4VHRyY2RJMW52OXlZdFc2d2MzQ203MEQwWDZVdHVZajRFMHFGWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU0MDQzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS43X3g2NC1zZXR1cC5leGUKcXF6QnF0V0Y5MXUxb1VvbVNzMWh0cUNJL09ERldVZ0hTRnNadzZMbmc3RExjZkZpL2lWUDdsSFMxR0dxR3U3bW8yb3IxNzNNMGF6Z0NJUEtrbTR1Q1E9PQo="
     }
   },
-  "notes": "Fix UI critico: grid de apartamentos en varias columnas (Tailwind v4 + @source monorepo)",
-  "version": "0.1.6",
-  "pub_date": "2026-08-13T20:30:19Z"
+  "notes": "Debug update automatico (E2E)",
+  "version": "0.1.7"
 }
