@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-08-13T17:43:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjdWa0t6aDN5ZHR2bzc5MlFMdHFtTlA4Njl5dWdoVkJGVExlMzNhK0VxQmRhbEJvUGN1K1pMZldaZjBNU21ZYWp1VzY2TWMyT254SEQvS3RsZ2EzcEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQyOTk3CWZpbGU6Q2FtdXJpQWRtaW5fMC4xLjBfeDY0LXNldHVwLmV4ZQpkYjd3RHY5QWpkcjBHR2xOOGw0bmovNkdrUjdlR0hsdkt1Ui9KMVM3a2Rjek0ybVpqbEFQWU9GUzJua3ZrZ3h6Vk1kYnRjZTlMaFRuMkhWOTkzZFRBdz09Cg==",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.1.0/CamuriAdmin_0.1.0_x64-setup.exe"
     }
   },
-  "version": "0.0.0",
-  "pub_date": "2026-08-13T16:40:14Z",
-  "notes": "No publicado aún"
+  "notes": "Lanzamiento inicial: sistema de actualizaciones automaticas con respaldo, rollback y watchdog",
+  "version": "0.1.0"
 }
