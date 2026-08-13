@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-13T19:26:59Z",
-  "version": "0.1.2",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjF3TG56NGVGdkdnWmxLZU42cmc4Mkp1am1oZDF4ZXFsaE9OWENaQWd3Tjk3anJRN2dsbkZxVEovUWdJUWhPTVppcGcwMytFOUp3bk55OTJSZmdQRXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQ5MjE4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS4yX3g2NC1zZXR1cC5leGUKY2swR2wrRHhneHdwWk9qWWF0dDFsMkRiaU8xb0RvZU40d0M2eHAyWnk2SkdQRTdsUWZmZGZFd1hsRmMwQlVQOXBRL2RFYy9jWXY4eVRldnAvQVhpQXc9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.2/CamuriSeguridad_0.1.2_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.3/CamuriSeguridad_0.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mng2ZWZORWhRRkp4NEdVVWl2ZmsvOFFFMWlXTTM4aVQweUtQcmZWaWZQY053R0R4aTg3SG4ycjRrMzByZmRDM2lWZUx4WmJXTWo2ckhRRC9qMEUxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjUwMTczCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS4zX3g2NC1zZXR1cC5leGUKMTM0bmNnVWdCbVIxYWZjKzRRT0hZeU9zbEtoQ1BxWDVuaVZnS3E0elNKNmdtL3V3RUVKVXF4SjlzNnI4YjUxMjJhRzNnNTVud05VTUJackJmRVJaREE9PQo="
     }
   },
-  "notes": "Seed de 345 apartamentos reales en SQLite local (camuri.default.db) + primer arranque siembra datos"
+  "pub_date": "2026-08-13T19:42:54Z",
+  "notes": "Fix: seed siembra tambien DB vacia (upgrade) + web garita con 401 JSON limpio",
+  "version": "0.1.3"
 }
