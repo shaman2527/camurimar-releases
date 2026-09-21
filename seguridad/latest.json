@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-13T21:09:01Z",
-  "notes": "E2E final: verificar update automatico de verdad",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnphbldESUlrMzBEc0hQREFwdkZEUWdqcnB3c3FOeGlNRXhadmt4bFhhNlY0d1NEc3RaT1ZNd0pYd1Z2dERLWVRzd0JmMnRCYnlZZ0U2K3pCS3VETlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjU1MzQwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMS45X3g2NC1zZXR1cC5leGUKbTlZbUxXQnpvY0EvTlJJZHdoZlNVYm05bjhpdVRsb3puMUJyWlRuck5FalgvRG40RlFEa0Qxc1dsNEJadlpOMHJkb3Q2WjRad1BpL2VxZVl0MFk5QVE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.1.9/CamuriSeguridad_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjJGRFNOK2E2eTBPdTd0djM4TTQrNXMzZE1qRXptZHhvUFZUN2xmTmJ0UFpwdmxIeEhldTV0UjJMeTFPWFVYOXFETzh1SWswRE5pMGIrdmNQNllOTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjYzMDAwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4wX3g2NC1zZXR1cC5leGUKL3JpZHo3MmtmOHN2WFNlY0c2MnVhS2F1S0x0cFhUMmNXVE82SGJTa01zR0JxNUV6c2I1NFJSc094NWk3S0xmdUM0YzlyVTlMcVhOT2F0WFNidnFOQ0E9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.0/CamuriSeguridad_0.2.0_x64-setup.exe"
     }
-  }
+  },
+  "notes": "Sync multi-panel garita: integridad (vehiculos, tarifa, visitas), estabilidad y Playa",
+  "pub_date": "2026-09-06T02:50:02Z"
 }
