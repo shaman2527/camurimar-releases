@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "pub_date": "2026-09-21T23:20:39Z",
+  "version": "0.2.1",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjJGRFNOK2E2eTBPdTd0djM4TTQrNXMzZE1qRXptZHhvUFZUN2xmTmJ0UFpwdmxIeEhldTV0UjJMeTFPWFVYOXFETzh1SWswRE5pMGIrdmNQNllOTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjYzMDAwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4wX3g2NC1zZXR1cC5leGUKL3JpZHo3MmtmOHN2WFNlY0c2MnVhS2F1S0x0cFhUMmNXVE82SGJTa01zR0JxNUV6c2I1NFJSc094NWk3S0xmdUM0YzlyVTlMcVhOT2F0WFNidnFOQ0E9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.0/CamuriSeguridad_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjJsdDRtQitTcWtQaGJxcTZKTDREU2RsR3dOMTJMRUxFWllaNWUxWUUzT1NFY0M5c0NtZ3N0bkRWWVp1SUZaYldSZ3lwaW1YaXBOTWpNVW1sL2hXWndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMyODM4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xX3g2NC1zZXR1cC5leGUKNSs5M01aNVIwaVZweUYxbE9KcEk4U3QzZG1NV3IybmJNbGJVaW12bGVjQnBBdkk3emxMM1pnMWk0dU5NbEJ5Y0thclFwaHBBVWdSYkVQTGRrL3UvREE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.1/CamuriSeguridad_0.2.1_x64-setup.exe"
     }
   },
-  "notes": "Sync multi-panel garita: integridad (vehiculos, tarifa, visitas), estabilidad y Playa",
-  "pub_date": "2026-09-06T02:50:02Z"
+  "notes": "Bloqueo por PIN tras inactividad, libro de novedades, registro de acciones del vigilante, clasificacion de visitantes, correccion del refresco de sesion y actualizaciones independientes por app"
 }
