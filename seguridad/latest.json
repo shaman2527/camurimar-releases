@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-21T23:20:39Z",
-  "version": "0.2.1",
+  "pub_date": "2026-09-22T21:52:57Z",
+  "notes": "La garita ya no pierde cambios: sube la cola aunque falle la descarga, guarda el motivo de cada fallo, reintenta sola y avisa en pantalla",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjJsdDRtQitTcWtQaGJxcTZKTDREU2RsR3dOMTJMRUxFWllaNWUxWUUzT1NFY0M5c0NtZ3N0bkRWWVp1SUZaYldSZ3lwaW1YaXBOTWpNVW1sL2hXWndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMyODM4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xX3g2NC1zZXR1cC5leGUKNSs5M01aNVIwaVZweUYxbE9KcEk4U3QzZG1NV3IybmJNbGJVaW12bGVjQnBBdkk3emxMM1pnMWk0dU5NbEJ5Y0thclFwaHBBVWdSYkVQTGRrL3UvREE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.1/CamuriSeguridad_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjdNczV0RzZBYWY3RVJNaTNjcm50UTR2TUM2bmNmSzVndHBXejV1OHh6WmsxTENvV2FwQVhPT3VnclhuNVpITjFvc3l5d1ZMOW9DQlAzQSsyN0JIZXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTEzOTc2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yX3g2NC1zZXR1cC5leGUKeVJ6RE1vWjZqMlRZMkxtV0U3aE1WNUE1VG1Yb3c0NXUzNVk0WENHYXlpMWp6eDRsOVBBaGxMS05ZQWFibUZYVnMxSUtzd3lMcmNSejNlcWNFVkVBQXc9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.2/CamuriSeguridad_0.2.2_x64-setup.exe"
     }
   },
-  "notes": "Bloqueo por PIN tras inactividad, libro de novedades, registro de acciones del vigilante, clasificacion de visitantes, correccion del refresco de sesion y actualizaciones independientes por app"
+  "version": "0.2.2"
 }
