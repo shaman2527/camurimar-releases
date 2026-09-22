@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-22T23:07:35Z",
+  "notes": "Diagnostico: el motivo de un fallo de sincronizacion ya dice que paso, y un boton guarda un informe completo en el Escritorio",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.4/CamuriSeguridad_0.2.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MndUWjd2eWRrbXpHN3JBRU4yVUQ5a3RWZjQwVTR3NDJURXJUK1pGaDQydmYzWm9XTkZNZ0Z0VWUrQ3RzYkxWUWFLUE4zMUptNHBlRFRxdjdYN21Od0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE4NDU0CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi40X3g2NC1zZXR1cC5leGUKbXpxeGhsL2JkQlBuaWN0YVpsN2Vjb1NwVk91dVA5K0VaVHMwSTFUWjB5VWtqZU9wUG1rNWhUTUZncWl3TnhtWlduRlN3TmxFL0dnNEdVZUFOVXNqQnc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.5/CamuriSeguridad_0.2.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mjg3Y3pTTDBwamN3a2JCd1hGcGNUcXFXeGQ5NEJUTndHWG1xSjlJUndvM0g0WmV6VUNSRGFVODBBcG9tOUFYaHVlS3NkajNVZVVtV2JOYlFrQzRvNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTIwMDUzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi41X3g2NC1zZXR1cC5leGUKY2pGV2dvY1N2ZlgwT3lKU284N1VBZmZ6aHgzNTRQU2RieFp1UE5sZjJBREdTMmVsZW9Nd0wzN1gwY3lUWXR6TnFqNlFCaER2U29lVjBZR0xrQXZrRFE9PQo="
     }
   },
-  "version": "0.2.4",
-  "notes": "La garita ya no se queda pegada al abrir (los comandos de red no bloquean la pantalla) y los cambios 'sin enviar' se reintentan solos cada 5 minutos"
+  "pub_date": "2026-09-22T23:34:14Z",
+  "version": "0.2.5"
 }
