@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-08-13T17:43:19Z",
+  "version": "0.2.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjdWa0t6aDN5ZHR2bzc5MlFMdHFtTlA4Njl5dWdoVkJGVExlMzNhK0VxQmRhbEJvUGN1K1pMZldaZjBNU21ZYWp1VzY2TWMyT254SEQvS3RsZ2EzcEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQyOTk3CWZpbGU6Q2FtdXJpQWRtaW5fMC4xLjBfeDY0LXNldHVwLmV4ZQpkYjd3RHY5QWpkcjBHR2xOOGw0bmovNkdrUjdlR0hsdkt1Ui9KMVM3a2Rjek0ybVpqbEFQWU9GUzJua3ZrZ3h6Vk1kYnRjZTlMaFRuMkhWOTkzZFRBdz09Cg==",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.1.0/CamuriAdmin_0.1.0_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.2.0/CamuriAdmin_0.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mnp6NVRYRWI2cUZMQXNiTVM0eEhENk9ZdFNOWDQyenZGVVpKTUMvK280Z2diZzZMMFVNend2K1Jabm13QmhlSlQ0Z2tBOG9CV1lpeDdmVFc0NVU2L3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTEwOTcwCWZpbGU6Q2FtdXJpQWRtaW5fMC4yLjBfeDY0LXNldHVwLmV4ZQplcnBlQkZBaGl3c3B1cTh4TmVyK1gyZEFDY2Z3ZDM2Zk1KZEUyMlJRcEZVejRkNG05aHk3V3N0allzbmdYWlRRZ0FJT0dtakthZEl0QUpCVlZkWEtBZz09Cg=="
     }
   },
-  "notes": "Lanzamiento inicial: sistema de actualizaciones automaticas con respaldo, rollback y watchdog",
-  "version": "0.1.0"
+  "pub_date": "2026-09-22T21:02:51Z",
+  "notes": "Panel de escritorio completo: sesion de la junta, panel con datos reales, acta junta_log, sincronizacion con produccion y licitaciones"
 }
