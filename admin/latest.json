@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "pub_date": "2026-09-22T22:49:56Z",
-  "notes": "Votaciones con el recuento de votos y publicar anuncios desde el escritorio de la junta",
+  "pub_date": "2026-09-23T23:20:24Z",
+  "version": "0.3.2",
+  "notes": "El escritorio de la junta estrena la seccion Cobros de visitas: cupo de visitas gratis del mes por apartamento, deuda de visita pendiente y el detalle; marcar cobrado y exportar el listado se hacen en el panel web",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.1/CamuriAdmin_0.3.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNJWlZXeFR1R2dQUGVtTGZxRGgya2FCLzhxU2xqT0prU0d1eDgza2NhMnZ6R0IxRStjS1M2YTdGK1pKeEpsNUJjbUNUdHFRczU2QlMwdlB6Qy9wMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE3Mzk1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjFfeDY0LXNldHVwLmV4ZQorL2hMblFGdGphbG9KcXVWNkJqNW9qSjNGbGFWM2hNWTAvSVpIakZrRkZ2ZGpiTnZ0K1pPUzllM3d4N0t3UWVTWjdadHdNNXZlQmhlK01DRmxGdWJEQT09Cg=="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.2/CamuriAdmin_0.3.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNvbHlkb0hLUDZCdm1mSHg5TTc0NHJNZWdvSHJvRFQ1c0tRVkREcEhDbjBzL1BkMXpiWkJlVk9NR0wwdTZUVWd2WE4wbzlXUkl3SExNbHg4Q3Nnd3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA1NjIzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjJfeDY0LXNldHVwLmV4ZQpwU3BOakNocm1qSGh1Q2tZbms2TS9PMWtxcGFwaCtXelA5V0FwYnpvSVY5cktFcnZOSTNseVROclhlOExLNXRpTExUWHZMUkF6OTJyc1FGRkllUDNBUT09Cg=="
     }
   }
 }
