@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
+  "notes": "Cupo de 5 visitas gratis al mes para el propietario solvente, deuda de visita para lo que se cobra, aviso de pago en la garita y proveedores en la pestaña principal; la garita ya no dice gratis, dice visitante registrado con exito",
+  "version": "0.2.9",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.8/CamuriSeguridad_0.2.8_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRmQ1EwYVlqMGE3cWdhSlNJYlZnYjB1MEoya0t1VHlleTdOeVJVY2RFaitWUkh1VUZhOXZwNWMzSEI3RWpFMWxlOUVlNFo1aWM4T00zZmdNVVQwQ0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk4MDMyCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi44X3g2NC1zZXR1cC5leGUKMk85ZDZVNzhmUkhuaC9uN3E2b1U5VURsc3ZyOXpFeFBQT1p2RXVpRkV5RUxNZlIvQjZEbm83TmZPTVJCcFVEaW9YeVlCNzVJVTIzUzRZbG9ZWW04Q0E9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.9/CamuriSeguridad_0.2.9_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MndUUC9SZUl3RDVUNlpEL2JRYTMvYU5DM3hyVVIvV2ZmdDZWNDNhdU9tcGlza2x6cVNTMk9PczZ2Qitxbm5DaVVMSGNGUGk2YXNlLzhlbVVEbjRTcWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA1MzA5CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi45X3g2NC1zZXR1cC5leGUKNzc3TEdrcFIvVWZrUVFTTzhQWndzaWN4NzR2VklTVWVONGt0alpSaTRTcWttVEwxRmY5MitTYlJrTkZVK05VcWg0cmpCZkxzaGNTMzQ5dFdKcDdMQUE9PQo="
     }
   },
-  "pub_date": "2026-09-23T21:13:53Z",
-  "notes": "La placa del carro deduce el apartamento en el libro de novedades; las placas registradas llegan a todos los equipos y reenviarlas ya no falla"
+  "pub_date": "2026-09-23T23:15:10Z"
 }
