@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-23T23:20:24Z",
-  "version": "0.3.2",
-  "notes": "El escritorio de la junta estrena la seccion Cobros de visitas: cupo de visitas gratis del mes por apartamento, deuda de visita pendiente y el detalle; marcar cobrado y exportar el listado se hacen en el panel web",
+  "pub_date": "2026-09-23T23:52:28Z",
+  "notes": "El panel de la junta se organiza en subsecciones: Residencia, Personal, Seguridad, Gestion y Comunicacion, con los grupos colapsables y el activo abierto solo. Cuatro vistas nuevas en solo lectura: Auditoria, Contactos, Configuracion y Proveedores (editar contactos o configuracion se hace en el panel web)",
+  "version": "0.3.3",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.2/CamuriAdmin_0.3.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNvbHlkb0hLUDZCdm1mSHg5TTc0NHJNZWdvSHJvRFQ1c0tRVkREcEhDbjBzL1BkMXpiWkJlVk9NR0wwdTZUVWd2WE4wbzlXUkl3SExNbHg4Q3Nnd3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA1NjIzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjJfeDY0LXNldHVwLmV4ZQpwU3BOakNocm1qSGh1Q2tZbms2TS9PMWtxcGFwaCtXelA5V0FwYnpvSVY5cktFcnZOSTNseVROclhlOExLNXRpTExUWHZMUkF6OTJyc1FGRkllUDNBUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9BVHY3RGQvUEtCd3E5cUVrcGhQQ3E4Umg2bzAvM3pHUUpqcHFLNUlRcTBsYllPUnpWdnpNVEhiU2ZqeUxBcUNrSEEwclZzLzI2K293eVpVbW03Q0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA3NTQ3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjNfeDY0LXNldHVwLmV4ZQpydjMrd3NyQmxyd2J3cFlkUzNtTU1YUXcvd3htVjJuVmw5MUN2cHNKRzE2ekVPelFyTEVsOE1DR1VXRWNySVVDbm5nTk5XNEU0Q3MvWGUzNVpLRkVCQT09Cg==",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.3/CamuriAdmin_0.3.3_x64-setup.exe"
     }
   }
 }
