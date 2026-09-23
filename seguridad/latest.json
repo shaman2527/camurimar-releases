@@ -1,11 +1,11 @@
 {
+  "version": "0.2.7",
+  "notes": "Rescata los cambios que no subian por llevar apartamentos de una version anterior (ids desconocidos en el servidor)",
+  "pub_date": "2026-09-23T00:03:16Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.6/CamuriSeguridad_0.2.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjI0TWhxN29DMEhtSmhFdmhWWVNtNk9KMGNLU1BLSmlubXFoRW91dFZUakdMbVlTTXhaTld4MHRpQ2FGU3JNRXlLYXg1eFdEQnZTRDluY3RndmczcmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTIxMDU3CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi42X3g2NC1zZXR1cC5leGUKdUJtaTdQTzI1MEd1U1ZJVzhzeWl4endLS0MvSFR3SVFkdHpzcFp6aXVoU0dUUXc0TjNUNm4zSWtzNTdpdER6ZEk3TkVUWmhoWUxpZldyekZhdHlDRHc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.7/CamuriSeguridad_0.2.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mit3ZkdtQTJaSWJCQlNXaU5oQU5pL2pxNVI4R2hpZDB5cDFSODdvWXVJU3RQVkxRZzNpY25ZTUlCTURSUnIwVTFqc3Z6bFgxVVh0NFhPQUgyR0l3b1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTIxNzk0CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi43X3g2NC1zZXR1cC5leGUKTkkwLzVmaFR0UmpDM0dQd0kzM01vemNsOHVOaVVwZUpwMURxdUZUTGdoeHBkcFozNDlNTTM5dmw5UHdWckE3VlV4RFJJd04vQk9TZ0ZSRTRhSWxPQmc9PQo="
     }
-  },
-  "notes": "Los cambios que no se pueden enviar dejan su motivo en el acta, para poder diagnosticarlo desde fuera",
-  "version": "0.2.6",
-  "pub_date": "2026-09-22T23:50:58Z"
+  }
 }
