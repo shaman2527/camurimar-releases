@@ -1,11 +1,11 @@
 {
-  "notes": "Cupo de 5 visitas gratis al mes para el propietario solvente, deuda de visita para lo que se cobra, aviso de pago en la garita y proveedores en la pestaña principal; la garita ya no dice gratis, dice visitante registrado con exito",
-  "version": "0.2.9",
+  "pub_date": "2026-09-25T22:17:04Z",
+  "notes": "La sesion de la garita ya no se puede morir: un solo refrescador de sesion (el WebView ya no renueva por su cuenta), renovacion single-flight en el nucleo y re-login forzado cuando Supabase revoca la sesion. Arregla el 401 permanente que dejaba los cambios sin subir (medido el 2026-09-25: 38 acciones encoladas durante 2 dias).",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.9/CamuriSeguridad_0.2.9_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MndUUC9SZUl3RDVUNlpEL2JRYTMvYU5DM3hyVVIvV2ZmdDZWNDNhdU9tcGlza2x6cVNTMk9PczZ2Qitxbm5DaVVMSGNGUGk2YXNlLzhlbVVEbjRTcWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA1MzA5CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi45X3g2NC1zZXR1cC5leGUKNzc3TEdrcFIvVWZrUVFTTzhQWndzaWN4NzR2VklTVWVONGt0alpSaTRTcWttVEwxRmY5MitTYlJrTkZVK05VcWg0cmpCZkxzaGNTMzQ5dFdKcDdMQUE9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.10/CamuriSeguridad_0.2.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNoZ2VqbDJCZ2toby9nTHBGKzJvOVVrWDBjeWw2cXFkM0dQT1hhQlRCUk02VVFtT1VVcGU5MzZtN09BTTdRYjJycW02YUhLQ25EM240VUtlZFp0d2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc0NjIzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xMF94NjQtc2V0dXAuZXhlCjRtVGRVVTZWL3RXTm5qT0o2MGN5WkZjc2hPaXB5dmRYcHljZlVsakR2ZXhQdWNOQitaRU44RW9RVnZNdFg2UTRxa0ZBWTVHcyszbzkvR0VRNGJHekFBPT0K"
     }
   },
-  "pub_date": "2026-09-23T23:15:10Z"
+  "version": "0.2.10"
 }
