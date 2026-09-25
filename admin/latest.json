@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-23T23:52:28Z",
-  "notes": "El panel de la junta se organiza en subsecciones: Residencia, Personal, Seguridad, Gestion y Comunicacion, con los grupos colapsables y el activo abierto solo. Cuatro vistas nuevas en solo lectura: Auditoria, Contactos, Configuracion y Proveedores (editar contactos o configuracion se hace en el panel web)",
-  "version": "0.3.3",
+  "pub_date": "2026-09-25T23:17:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9BVHY3RGQvUEtCd3E5cUVrcGhQQ3E4Umg2bzAvM3pHUUpqcHFLNUlRcTBsYllPUnpWdnpNVEhiU2ZqeUxBcUNrSEEwclZzLzI2K293eVpVbW03Q0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA3NTQ3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjNfeDY0LXNldHVwLmV4ZQpydjMrd3NyQmxyd2J3cFlkUzNtTU1YUXcvd3htVjJuVmw5MUN2cHNKRzE2ekVPelFyTEVsOE1DR1VXRWNySVVDbm5nTk5XNEU0Q3MvWGUzNVpLRkVCQT09Cg==",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.3/CamuriAdmin_0.3.3_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.4/CamuriAdmin_0.3.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjU3YW1FZGF3bDBpbDZ0a0V5alFaTFcrNDg1UnMxK3NmZmhLaUZ4QlZQNE95YUw5TmFGUjBkZVRSaU1qKy9kclZlb21XSGh0M3pwOUJNWW1TVXZqckFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc4MjM3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjRfeDY0LXNldHVwLmV4ZQpnSHh1K1orWHQ4TjhVL2h2bCt1MnVObzJ3dVVMYldFNGp3Uk4vMzl5NVZHdHVFSWZjMnRFUDZDdGJPU0ZaWTAvaEQwaWo2TFJUbWpDV2NLNnd3UXhBQT09Cg=="
     }
-  }
+  },
+  "notes": "La sesion del panel ya no se queda sin renovar: el binario renueva con una unica regla y el motivo real queda en el diagnostico. Boton Diagnostico (escribe un .txt en el Escritorio con el estado real: sesion, ultima renovacion, sincronizacion y ultimo error) y el motivo del fallo de sincronizacion a la vista en la barra. Arregla el 'no le llegan datos' por sesion vencida.",
+  "version": "0.3.4"
 }
