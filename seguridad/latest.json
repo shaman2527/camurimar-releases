@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-25T22:17:04Z",
-  "notes": "La sesion de la garita ya no se puede morir: un solo refrescador de sesion (el WebView ya no renueva por su cuenta), renovacion single-flight en el nucleo y re-login forzado cuando Supabase revoca la sesion. Arregla el 401 permanente que dejaba los cambios sin subir (medido el 2026-09-25: 38 acciones encoladas durante 2 dias).",
+  "version": "0.2.11",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.10/CamuriSeguridad_0.2.10_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNoZ2VqbDJCZ2toby9nTHBGKzJvOVVrWDBjeWw2cXFkM0dQT1hhQlRCUk02VVFtT1VVcGU5MzZtN09BTTdRYjJycW02YUhLQ25EM240VUtlZFp0d2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc0NjIzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xMF94NjQtc2V0dXAuZXhlCjRtVGRVVTZWL3RXTm5qT0o2MGN5WkZjc2hPaXB5dmRYcHljZlVsakR2ZXhQdWNOQitaRU44RW9RVnZNdFg2UTRxa0ZBWTVHcyszbzkvR0VRNGJHekFBPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.11/CamuriSeguridad_0.2.11_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZldzI0eWVkSnhmK2VmZE5LU2hMd3NWdVFJZmp4TVV4TjlDWEVzT3JtakhGQWR0bTE4K2h4SlFoOGxpNGhLZWs0MHZ6ZEVVTWp4NmVBQXAvKzE1ZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDUyMDU2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xMV94NjQtc2V0dXAuZXhlCnNsSHhKTC9VeWw3bHJtNk1HTENxZWgxOFN5WDRHSlpIMkh1elVUS1VXTmVKUElJNDJRYWRrVzhWRFg5SGhrenZVNDhyOE5TSVE0RmpiTmhuZkVIZUR3PT0K"
     }
   },
-  "version": "0.2.10"
+  "pub_date": "2026-09-26T19:47:37Z",
+  "notes": "La sesion de la garita resiste los fallos transitorios del almacen de credenciales (una lectura que falla ya no te manda al login, se reintenta) y la renovacion es determinista: no se vuelve a rotar una sesion que este proceso ya roto, y una sesion rotada que no se pudo guardar pide un unico re-login en vez de reintentar con un token consumido. Ademas: te dice en pantalla por que volviste al login, mantiene el 'en vivo' aunque la garita este inactiva y un 408/429 ya no te expulsa."
 }
