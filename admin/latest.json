@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-26T21:59:42Z",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ4OHBnS2JtRHF4WkRkVG42RDBQcGhMR1JZTVJvSGVuaEFkR2VQR0dOeFlod2R5b0dmS3dQdGlKWTg3bkxYTUNHdXNvYkZjTlRmMGhHNGhMLzQ1WGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDU5OTgxCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjVfeDY0LXNldHVwLmV4ZQpKWndzcE83T212RlArdlZkajNDK1NoZ0JUTGVOUGQ3aVhGMEN0RncyMlJtWUo4TVZOa2MzRVZtcTgxakl0cFI0aDUrWWd0blE5eXhqVllUVHRqUzhCdz09Cg==",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.5/CamuriAdmin_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mjc5VmhaOVptTzcrbU9XVld2V1IxV3dsT0puSm5FNDh2U2Z3TGQyblYvZEVKWWdCUjVDa2RqdE52S0hzTkgzS2t4LzQyaVREdW1lS0F2VXc2NTlQWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDYwODgyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjZfeDY0LXNldHVwLmV4ZQpJWHUzNG1nOTBZVk1TV3U5OXc2TE0zQ1owR0dpaWRNRkRTNlEvci96WHhUUCs5TzFGdFlVLzNmdWJ5YWhIbHNyMG9PcVg1UkpJNXY0Zlh5WTBnbEVBZz09Cg==",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.6/CamuriAdmin_0.3.6_x64-setup.exe"
     }
   },
-  "notes": "El panel de la junta vuelve a traer datos: las peticiones bloqueantes salen del runtime async de la app (morian con 'error sending request for url' y el panel se quedaba vacio aunque la red estuviera bien). Ademas reintento por IPv4 cuando la peticion no sale, motivo real del fallo en pantalla y boton de Diagnostico con sondeo del servidor."
+  "notes": "Las peticiones al servidor salen del runtime async de la app (se acaban los fallos 'error sending request' que dejaban el panel vacio aunque la red estuviera bien) y el boton de Diagnostico ya no puede fallar al abrir su cliente IPv4.",
+  "pub_date": "2026-09-26T22:14:43Z"
 }
