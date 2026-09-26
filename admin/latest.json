@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-25T23:17:19Z",
+  "pub_date": "2026-09-26T21:59:42Z",
+  "version": "0.3.5",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.4/CamuriAdmin_0.3.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjU3YW1FZGF3bDBpbDZ0a0V5alFaTFcrNDg1UnMxK3NmZmhLaUZ4QlZQNE95YUw5TmFGUjBkZVRSaU1qKy9kclZlb21XSGh0M3pwOUJNWW1TVXZqckFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc4MjM3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjRfeDY0LXNldHVwLmV4ZQpnSHh1K1orWHQ4TjhVL2h2bCt1MnVObzJ3dVVMYldFNGp3Uk4vMzl5NVZHdHVFSWZjMnRFUDZDdGJPU0ZaWTAvaEQwaWo2TFJUbWpDV2NLNnd3UXhBQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ4OHBnS2JtRHF4WkRkVG42RDBQcGhMR1JZTVJvSGVuaEFkR2VQR0dOeFlod2R5b0dmS3dQdGlKWTg3bkxYTUNHdXNvYkZjTlRmMGhHNGhMLzQ1WGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDU5OTgxCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjVfeDY0LXNldHVwLmV4ZQpKWndzcE83T212RlArdlZkajNDK1NoZ0JUTGVOUGQ3aVhGMEN0RncyMlJtWUo4TVZOa2MzRVZtcTgxakl0cFI0aDUrWWd0blE5eXhqVllUVHRqUzhCdz09Cg==",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.5/CamuriAdmin_0.3.5_x64-setup.exe"
     }
   },
-  "notes": "La sesion del panel ya no se queda sin renovar: el binario renueva con una unica regla y el motivo real queda en el diagnostico. Boton Diagnostico (escribe un .txt en el Escritorio con el estado real: sesion, ultima renovacion, sincronizacion y ultimo error) y el motivo del fallo de sincronizacion a la vista en la barra. Arregla el 'no le llegan datos' por sesion vencida.",
-  "version": "0.3.4"
+  "notes": "El panel de la junta vuelve a traer datos: las peticiones bloqueantes salen del runtime async de la app (morian con 'error sending request for url' y el panel se quedaba vacio aunque la red estuviera bien). Ademas reintento por IPv4 cuando la peticion no sale, motivo real del fallo en pantalla y boton de Diagnostico con sondeo del servidor."
 }
