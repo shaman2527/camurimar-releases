@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.11/CamuriSeguridad_0.2.11_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZldzI0eWVkSnhmK2VmZE5LU2hMd3NWdVFJZmp4TVV4TjlDWEVzT3JtakhGQWR0bTE4K2h4SlFoOGxpNGhLZWs0MHZ6ZEVVTWp4NmVBQXAvKzE1ZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDUyMDU2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xMV94NjQtc2V0dXAuZXhlCnNsSHhKTC9VeWw3bHJtNk1HTENxZWgxOFN5WDRHSlpIMkh1elVUS1VXTmVKUElJNDJRYWRrVzhWRFg5SGhrenZVNDhyOE5TSVE0RmpiTmhuZkVIZUR3PT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.12/CamuriSeguridad_0.2.12_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitvcXIybWlwdC9RSkpzSklZcndaSnBpdE55R1dwZkUzZUN5NjJHTVNEZ0xabk44T2RlTlR4Rzc5ajJRL3hnMVR2eWNjRXhtVTFmK2FrV3dqbnQwc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDYwMjQ4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xMl94NjQtc2V0dXAuZXhlCkJaQ0dneThqQUEwR1g2U2EvV1pWc3BSaFh0dWowNGpXL2YxTVM1ZEgwOEpGV05EVGtkaTRiamhucWtKZGxxb090NlhucUNkNDZSTm5xQXNMdlU4NkFBPT0K"
     }
   },
-  "pub_date": "2026-09-26T19:47:37Z",
-  "notes": "La sesion de la garita resiste los fallos transitorios del almacen de credenciales (una lectura que falla ya no te manda al login, se reintenta) y la renovacion es determinista: no se vuelve a rotar una sesion que este proceso ya roto, y una sesion rotada que no se pudo guardar pide un unico re-login en vez de reintentar con un token consumido. Ademas: te dice en pantalla por que volviste al login, mantiene el 'en vivo' aunque la garita este inactiva y un 408/429 ya no te expulsa."
+  "pub_date": "2026-09-26T22:04:09Z",
+  "version": "0.2.12",
+  "notes": "Las peticiones al servidor salen del runtime async de la app: se acaban los fallos 'error sending request for url' que dejaban la sincronizacion muerta aunque la red estuviera bien. Ademas reintento por IPv4 cuando la peticion no sale, el motivo real del fallo en pantalla y sondeo del servidor en el diagnostico."
 }
