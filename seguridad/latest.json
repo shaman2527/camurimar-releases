@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVNZk1XVUZ1ZHpBTlB5VWZ6UmNnN1RoTGVvdFhpWnAyc0R4UjBEbzBOcnVFQytUNThKajRnVXl3dUtuZkNidGRTWkw5RG5xbmpEN2QvVHQrVC9sRVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDYxMTU0CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xM194NjQtc2V0dXAuZXhlCkFGSEpITEtEd2xpUmVaTTZnUkxVVHpoR2szZ3JOVFBlU0RyMG9OK2I1cFVGUVNmbG1MMG51VmdTVlc1QWZmc3dSY044ZTdhNlM1TDNqRTQ2SUYzNERRPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.13/CamuriSeguridad_0.2.13_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.14/CamuriSeguridad_0.2.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9pOUhQWUlvc2lrdVE0Wk1Oc0dqbGp6RWs2MSt2N3pQMUFkWmxTd3ZZMVBtdzVJVU1BdmRVV1NnU1NvYnhkaUxMSWcxS2VIczZyNlVhZVp2cUhZZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc3NTY2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xNF94NjQtc2V0dXAuZXhlCk1PTjNkRjRTN0N0eE9lRjNsY0d0T24rQzdaZllURlZGbU9PRCtNaXlIcW5TUnZPaHlFR2FqZFd4cXZDTmYrZVN4bzFCNEhSTnFOQWFGQkVLT2tVekFBPT0K"
     }
   },
-  "notes": "Las peticiones al servidor salen del runtime async de la app y el diagnostico no puede fallar al abrir su cliente IPv4. Reintento por IPv4 segun el tipo de peticion (con efecto: solo si fallo al conectar; sin efecto: tambien en timeout).",
-  "pub_date": "2026-09-26T22:19:15Z"
+  "notes": "La sincronizacion ya no pierde entradas: el pull deja de borrar lo que la garita acaba de registrar (medido: 6 entradas en 15 s dejaban 3 verdes). TAG de solvencia en el modal (verde solvente / rojo insolvente) con el texto siempre visible. Una visita tiene el MISMO id en el servidor y en el escritorio, asi que sacarla antes de sincronizar tambien la saca del servidor. El proveedor con destino queda en el HISTORIAL del apartamento con su TAG turquesa, en su sitio cronologico y sin cobro, y el codigo se normaliza (812 -> C-812). Subida a ~1,5-2 s tras cada accion (antes hasta ~34 s).",
+  "pub_date": "2026-09-27T02:52:47Z",
+  "version": "0.2.14"
 }
