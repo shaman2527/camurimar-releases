@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
+  "version": "0.3.7",
+  "notes": "Seccion 'Carga familiar': la junta carga, edita y desactiva/reactiva los familiares de cada apartamento (buscador por codigo, nombre o cedula) y el propietario los ve en solo lectura. Cambiar el propietario pide la clave de la junta (PIN de 6 digitos, con bloqueo tras 5 intentos) y queda en el acta CON AUTOR y en la auditoria con el valor anterior y el nuevo. El buscador de Visitas ya no falla. Con Realtime ya activo en la base, el control de puerta y las secciones se refrescan solos cuando la garita registra algo (evento en ~1,2 s), con respaldo cada 15 s y el indicador 'Actualizado hace X s'.",
+  "pub_date": "2026-09-27T03:49:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mjc5VmhaOVptTzcrbU9XVld2V1IxV3dsT0puSm5FNDh2U2Z3TGQyblYvZEVKWWdCUjVDa2RqdE52S0hzTkgzS2t4LzQyaVREdW1lS0F2VXc2NTlQWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDYwODgyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjZfeDY0LXNldHVwLmV4ZQpJWHUzNG1nOTBZVk1TV3U5OXc2TE0zQ1owR0dpaWRNRkRTNlEvci96WHhUUCs5TzFGdFlVLzNmdWJ5YWhIbHNyMG9PcVg1UkpJNXY0Zlh5WTBnbEVBZz09Cg==",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.6/CamuriAdmin_0.3.6_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.7/CamuriAdmin_0.3.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRQcHVZdVpVS25BRUhHcHR1SUlCR0QzcUx1YkRyS0pVMEFDQnZkU1QrUm04VGJkT0hBVkFqd1YzNzM4NDNxTW1TRkplV0J0ek4wSGk0bk5jaEJFMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDgwOTczCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjdfeDY0LXNldHVwLmV4ZQp6M2lMRlQ5UmQvMTJjYmJKUGxEdFFXa0NYWVgyTEdIZ2xzUGdoNk5pemNGUGZ2WHNrMXhiRUtvVXljWTlQQVI0Y2l3YVpBZVNkMC9CVlBXeFhpNnpDUT09Cg=="
     }
-  },
-  "notes": "Las peticiones al servidor salen del runtime async de la app (se acaban los fallos 'error sending request' que dejaban el panel vacio aunque la red estuviera bien) y el boton de Diagnostico ya no puede fallar al abrir su cliente IPv4.",
-  "pub_date": "2026-09-26T22:14:43Z"
+  }
 }
