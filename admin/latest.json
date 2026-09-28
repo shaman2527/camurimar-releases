@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "Seccion 'Carga familiar': la junta carga, edita y desactiva/reactiva los familiares de cada apartamento (buscador por codigo, nombre o cedula) y el propietario los ve en solo lectura. Cambiar el propietario pide la clave de la junta (PIN de 6 digitos, con bloqueo tras 5 intentos) y queda en el acta CON AUTOR y en la auditoria con el valor anterior y el nuevo. El buscador de Visitas ya no falla. Con Realtime ya activo en la base, el control de puerta y las secciones se refrescan solos cuando la garita registra algo (evento en ~1,2 s), con respaldo cada 15 s y el indicador 'Actualizado hace X s'.",
-  "pub_date": "2026-09-27T03:49:33Z",
+  "version": "0.3.8",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.7/CamuriAdmin_0.3.7_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRQcHVZdVpVS25BRUhHcHR1SUlCR0QzcUx1YkRyS0pVMEFDQnZkU1QrUm04VGJkT0hBVkFqd1YzNzM4NDNxTW1TRkplV0J0ek4wSGk0bk5jaEJFMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDgwOTczCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjdfeDY0LXNldHVwLmV4ZQp6M2lMRlQ5UmQvMTJjYmJKUGxEdFFXa0NYWVgyTEdIZ2xzUGdoNk5pemNGUGZ2WHNrMXhiRUtvVXljWTlQQVI0Y2l3YVpBZVNkMC9CVlBXeFhpNnpDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi84T3NXVmxRNGdYT0tWeUwxWUc2VHc0SDNJRFgyMmFJVzc3U3pXRzl6bGxxbGp2N2owdUoyeDY1VFc5NjJFdmhsZ25QeHJ1WHdRUktXSk9obTI1SVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMyOTIwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjhfeDY0LXNldHVwLmV4ZQp4aTUwWlFKV1UzTUl4MVVyZU5YdEJGWW9lbnBKN3lvRVBFVXhsODJJN21iakFLZ283dzJONy9IZUVkdTEvRkFUMjRKZ1BJZlM4cFdqdS80RGl1QjNDdz09Cg==",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.8/CamuriAdmin_0.3.8_x64-setup.exe"
     }
-  }
+  },
+  "notes": "La junta ya puede cambiar la SOLVENCIA de un apartamento y cambiar el ROL o desactivar/reactivar cuentas desde su app, tambien SIN INTERNET (el cambio se ve al instante y se sube solo); crear y cambiar la CLAVE de la junta (PIN de 6 digitos) desde Configuracion; editar o desactivar una carga familiar pidiendo la clave; y elegir entre MAS PARENTESCOS (conyuge, concubino, primo, tio, sobrino, cunado...). Ademas, el acceso de un proveedor ya no aparece como Familiar en el panel del propietario, y el reintento de red ya no puede volver a presentar el token de sesion.",
+  "pub_date": "2026-09-28T22:02:01Z"
 }
