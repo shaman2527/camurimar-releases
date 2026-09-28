@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
+  "notes": "La junta entra con su CLAVE (PIN de 6 digitos): sin ella el panel queda en modo consulta y NO se puede modificar nada, con o sin internet. Los grupos Seguridad y Gestion aparecen difuminados con candado y solo se ven al meter la clave (una vez por sesion, hasta cerrar la app). La clave nunca se guarda en el equipo: solo su comprobacion, para poder pedirla tambien sin conexion.",
+  "pub_date": "2026-09-28T23:53:49Z",
+  "version": "0.3.9",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi84T3NXVmxRNGdYT0tWeUwxWUc2VHc0SDNJRFgyMmFJVzc3U3pXRzl6bGxxbGp2N2owdUoyeDY1VFc5NjJFdmhsZ25QeHJ1WHdRUktXSk9obTI1SVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMyOTIwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjhfeDY0LXNldHVwLmV4ZQp4aTUwWlFKV1UzTUl4MVVyZU5YdEJGWW9lbnBKN3lvRVBFVXhsODJJN21iakFLZ283dzJONy9IZUVkdTEvRkFUMjRKZ1BJZlM4cFdqdS80RGl1QjNDdz09Cg==",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.8/CamuriAdmin_0.3.8_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.9/CamuriAdmin_0.3.9_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ1RlpqNjlmbVBFZnpBZHdva04wVGNsUmFQSlhiVGJOZTFubG5iSTZWZ3ZmVldsdWdnVjhFSURhc2RWWEdYcjJJZENlZDB5Z0c0Z0E4ZjdCdEFnUXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM5NjI3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjlfeDY0LXNldHVwLmV4ZQoyMmlCMzBtdnR3WXYxYWxPUGdtS0NQL0JuQ0JTUzlIMDNwMW9vMTZkdllQZzJYb1FtVHdYdnhDTmtDeXRSSXljUTNscUF4dGRLeXdMVGhQZGRGMlVCUT09Cg=="
     }
-  },
-  "notes": "La junta ya puede cambiar la SOLVENCIA de un apartamento y cambiar el ROL o desactivar/reactivar cuentas desde su app, tambien SIN INTERNET (el cambio se ve al instante y se sube solo); crear y cambiar la CLAVE de la junta (PIN de 6 digitos) desde Configuracion; editar o desactivar una carga familiar pidiendo la clave; y elegir entre MAS PARENTESCOS (conyuge, concubino, primo, tio, sobrino, cunado...). Ademas, el acceso de un proveedor ya no aparece como Familiar en el panel del propietario, y el reintento de red ya no puede volver a presentar el token de sesion.",
-  "pub_date": "2026-09-28T22:02:01Z"
+  }
 }
