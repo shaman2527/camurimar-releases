@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.15/CamuriSeguridad_0.2.15_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9mLy9FcGhaZUNNZFd1WE15am81Zkk3MUpYam94TFBYaVgrbGViNHZjVFY1RjRtMnhBbFZGWXJEQndNUEFNSFZwY1J3OTFuSWJNWW9RL2E2blozcWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMyNDA5CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xNV94NjQtc2V0dXAuZXhlCjhTQmJaWFNWZHlIMjlDV3lxZ2FPY1hETnd2cldJUlNObzBoZDljLzhyaFhSSWFIRXh5TWVIUWt2OHNSQ1lYKzN6SkdCVEI0YlNqZGx0L3BzdVJKbUNBPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.16/CamuriSeguridad_0.2.16_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjR4eXlIaTNEM09ZTm94dXpGbVc1a21BeHAvNFpBSWptV1VYbXNtL09MNm1sUEZGd2VIQUlNaCtMak9UWTRYRDIrMTF3cDR0ckZhTjI5SHVMdTJUQkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzIxMTQyCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xNl94NjQtc2V0dXAuZXhlCm1FVUJLeVpWV1p4Rit3ckhhNUZnTjFGcDFXVXFubGhDU2ZGUjZ6amEzUzhxbGF0YjI5OHRNVkh2SzlKdzFGOFdQd0dFODl6MUcvQm52aXNxSkQvZkF3PT0K"
     }
   },
-  "pub_date": "2026-09-28T21:53:30Z",
-  "version": "0.2.15",
-  "notes": "Mejoras de fondo del sistema compartido: el reintento de red ya no puede volver a presentar el token de sesion (era lo que dejaba la garita sin poder renovar la sesion), la cola de sincronizacion usa el metodo correcto en cada envio y el estado de sync informa el motivo real del ultimo fallo de subida."
+  "notes": "La salida de un acceso queda registrada con su hora real, el tiempo que estuvo dentro y el tipo de persona (#105)",
+  "pub_date": "2026-09-29T22:32:23Z",
+  "version": "0.2.16"
 }
