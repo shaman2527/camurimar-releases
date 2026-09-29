@@ -1,11 +1,11 @@
 {
-  "notes": "Apartamentos: la junta puede cambiar la SOLVENCIA, marcar o quitar RESIDENTE (visitas gratis) y corregir el NOMBRE y la CEDULA del titular, desde su PC y tambien SIN INTERNET (el cambio se ve al instante y se sube solo al volver la conexion). El titular exige la clave de la junta y queda en el acta.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.10/CamuriAdmin_0.3.10_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9mUDF1VXlrL2QvdDROQnM0alEwbytVRGVWblFTSUx0M3k4SUM2UmJXUDJVTXdMSWxOZVNvV3YyeUlJQVkwRjl5TWhJTFBYVHFkS0IxU3ZjNGJOblFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQyMTY0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjEwX3g2NC1zZXR1cC5leGUKQjI2cGxKTDh0K2Z4ejFQd0JqRmd2MUxUWXBmV3BRNVdvWWQ1dCtFeXdmd1lrald4S1NzQkpYK2Nuc0k3alNic1l6QkVwLzhleGVBUXc5a1pJZmo1Qmc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.11/CamuriAdmin_0.3.11_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlZSHlBZ1E4UTJCY0xUb3ZKZjFjUmxlT283VTZsTmxycS9YOGp6OUhJTjZBRzJvM256QlN4dFhJVHZienZJai9KbHBxVm03Wk00MzBwbnZ5OGl3c2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQ0MTQ5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjExX3g2NC1zZXR1cC5leGUKbTFkL2NoaTl4Y3JXd2NwQWVUYzlhRTZ2T3lLL004eVl5TWRpZ0dRRElUNWxlUGxjQWl1ZGFWYmNyL1Bzbk1YdHFlbzF2UkM3MDhNenVDNkdyamsvQ1E9PQo="
     }
   },
-  "version": "0.3.10",
-  "pub_date": "2026-09-29T00:36:08Z"
+  "notes": "Usuarios: la junta corrige el NOMBRE y el TELEFONO de una cuenta desde su PC, tambien SIN INTERNET (el cambio se ve al instante y se sube solo). El nombre no puede quedar vacio y el telefono se puede borrar dejandolo en blanco.",
+  "pub_date": "2026-09-29T01:09:10Z",
+  "version": "0.3.11"
 }
