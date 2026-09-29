@@ -1,11 +1,11 @@
 {
-  "notes": "Contactos: la junta da de alta y edita los telefonos de emergencia desde su PC, tambien SIN INTERNET. Sin conexion la lista sale de la ultima lectura guardada en el equipo (con su fecha) y lo que cambies sube solo al volver la red.",
+  "pub_date": "2026-09-29T04:48:55Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.12/CamuriAdmin_0.3.12_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ5ajdZb0RleVJ3U3llZEVkSDNmUTVEQmgwQWg5QzFqa2dOdzZRdUErKzd6L3FMNzlJbjVKbHJ6YTZQdU45cld4RWtqVEJ4VVYxYmp0Y0NReGttL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQ5NzcyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjEyX3g2NC1zZXR1cC5leGUKVkYwbThVMnZBd1FrcCtTSEE4VFpvbzMrYjNBSXVUUEVDT0Z3L2hEZllCUGFla1h1MTFTOXIrYUJEWEhmbEpuN051Z2VmMnR2MVJBR0pOdFhPNlpOQWc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.13/CamuriAdmin_0.3.13_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRLTDZzWVdRS1o2eW9TV1Y0SzN2SkhhdWxJZndLeGNNZnVEaG5XQ3d2WWNzU3NuUktUeDVXR3hZV0VsVnlwbG9tckk2cGNaWGxzTFlBNlM0WUtjTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjU3MzM0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjEzX3g2NC1zZXR1cC5leGUKenRoVlM2d1ZJcklZdnA5TXArL1MxRDlvTHorSllNVVA2SjM4Tkc3ajRQclFZQXUySmFmeWFzQTcraHREOW9aWFF3VExJWWVaSVdrQmo5eDRlMFlYREE9PQo="
     }
   },
-  "version": "0.3.12",
-  "pub_date": "2026-09-29T02:42:53Z"
+  "notes": "Anuncios y Configuracion editables sin internet con la clave de la junta: editar, ocultar/mostrar y borrar anuncios, y cambiar o borrar parametros del condominio desde la PC de la junta, con copia local y subida automatica.",
+  "version": "0.3.13"
 }
