@@ -1,11 +1,11 @@
 {
+  "notes": "Contactos: la junta da de alta y edita los telefonos de emergencia desde su PC, tambien SIN INTERNET. Sin conexion la lista sale de la ultima lectura guardada en el equipo (con su fecha) y lo que cambies sube solo al volver la red.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.11/CamuriAdmin_0.3.11_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlZSHlBZ1E4UTJCY0xUb3ZKZjFjUmxlT283VTZsTmxycS9YOGp6OUhJTjZBRzJvM256QlN4dFhJVHZienZJai9KbHBxVm03Wk00MzBwbnZ5OGl3c2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQ0MTQ5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjExX3g2NC1zZXR1cC5leGUKbTFkL2NoaTl4Y3JXd2NwQWVUYzlhRTZ2T3lLL004eVl5TWRpZ0dRRElUNWxlUGxjQWl1ZGFWYmNyL1Bzbk1YdHFlbzF2UkM3MDhNenVDNkdyamsvQ1E9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.12/CamuriAdmin_0.3.12_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ5ajdZb0RleVJ3U3llZEVkSDNmUTVEQmgwQWg5QzFqa2dOdzZRdUErKzd6L3FMNzlJbjVKbHJ6YTZQdU45cld4RWtqVEJ4VVYxYmp0Y0NReGttL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQ5NzcyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjEyX3g2NC1zZXR1cC5leGUKVkYwbThVMnZBd1FrcCtTSEE4VFpvbzMrYjNBSXVUUEVDT0Z3L2hEZllCUGFla1h1MTFTOXIrYUJEWEhmbEpuN051Z2VmMnR2MVJBR0pOdFhPNlpOQWc9PQo="
     }
   },
-  "notes": "Usuarios: la junta corrige el NOMBRE y el TELEFONO de una cuenta desde su PC, tambien SIN INTERNET (el cambio se ve al instante y se sube solo). El nombre no puede quedar vacio y el telefono se puede borrar dejandolo en blanco.",
-  "pub_date": "2026-09-29T01:09:10Z",
-  "version": "0.3.11"
+  "version": "0.3.12",
+  "pub_date": "2026-09-29T02:42:53Z"
 }
