@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-29T05:55:59Z",
-  "notes": "Ronda 2 completa sin internet: Facturas, Votaciones, Licitaciones, Empleados, Nomina, Asistencia, Solicitudes y Proveedores. Cada seccion guarda su ultima lectura en el equipo (con su fecha), los cambios se aplican al instante y suben solos al volver la red, y la junta puede crear, editar y borrar desde su PC con la clave. Asistencia marca entrada y salida con la hora real. El acta de la junta queda siempre CON AUTOR.",
+  "pub_date": "2026-09-29T21:17:36Z",
+  "version": "0.3.16",
+  "notes": "PIN de 4 digitos de la app (propio de cada equipo) para abrirla y desbloquearla, con bloqueo automatico a los 15 minutos sin uso y cambio desde Configuracion; y rediseno de la vista de entrada y salida (quien esta dentro ahora, con tiempo dentro, y el historial de la garita).",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.15/CamuriAdmin_0.3.15_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjdiY1FVSktBY3lrYVM4OGRyMytKaysxVHBobmNUazlLVEVpYzY4SVllTmIzQXA1UHhTaFoybnNLb1FnYzFpQU5UMzZyTmtDUktMMTdnMURsbGJCS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYxMzU5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE1X3g2NC1zZXR1cC5leGUKRC9HRUF3Zlg2WGVPUHgrbTF1THhDLy93QjVUQzduckExQXBJdnVHV3hCSjRvMk42eFJqTWN5d3I0N0tCZkNydWkvWWgyMGdyN2VTYXdxbm5LbFFYQXc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.16/CamuriAdmin_0.3.16_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjIxWElnaGVmQ2NXZjFoclRVWG1SYW5nRXljK3RRRXJzNHZnTVcrRW9oc1NXNE5ld0poeDh3clo2a1lmdk0rN0ltekJtSDlWMWpoTXByVXZqa0tjdGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzE2NjU0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE2X3g2NC1zZXR1cC5leGUKaUlCVmxwZjBJVGprU0Z6aHFuQjdsR0lsc2lHc1J6WGdJRTRGTDJXTVA4ZkI0TEZtUWV4Zk1XRE41VkRHY0ZxVFJrSHA4SkFUdmhXWXl4K1pURS9iQlE9PQo="
     }
-  },
-  "version": "0.3.15"
+  }
 }
