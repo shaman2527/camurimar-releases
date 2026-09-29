@@ -1,11 +1,11 @@
 {
-  "notes": "La junta entra con su CLAVE (PIN de 6 digitos): sin ella el panel queda en modo consulta y NO se puede modificar nada, con o sin internet. Los grupos Seguridad y Gestion aparecen difuminados con candado y solo se ven al meter la clave (una vez por sesion, hasta cerrar la app). La clave nunca se guarda en el equipo: solo su comprobacion, para poder pedirla tambien sin conexion.",
-  "pub_date": "2026-09-28T23:53:49Z",
-  "version": "0.3.9",
+  "notes": "Apartamentos: la junta puede cambiar la SOLVENCIA, marcar o quitar RESIDENTE (visitas gratis) y corregir el NOMBRE y la CEDULA del titular, desde su PC y tambien SIN INTERNET (el cambio se ve al instante y se sube solo al volver la conexion). El titular exige la clave de la junta y queda en el acta.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.9/CamuriAdmin_0.3.9_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZ1RlpqNjlmbVBFZnpBZHdva04wVGNsUmFQSlhiVGJOZTFubG5iSTZWZ3ZmVldsdWdnVjhFSURhc2RWWEdYcjJJZENlZDB5Z0c0Z0E4ZjdCdEFnUXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM5NjI3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjlfeDY0LXNldHVwLmV4ZQoyMmlCMzBtdnR3WXYxYWxPUGdtS0NQL0JuQ0JTUzlIMDNwMW9vMTZkdllQZzJYb1FtVHdYdnhDTmtDeXRSSXljUTNscUF4dGRLeXdMVGhQZGRGMlVCUT09Cg=="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.10/CamuriAdmin_0.3.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mi9mUDF1VXlrL2QvdDROQnM0alEwbytVRGVWblFTSUx0M3k4SUM2UmJXUDJVTXdMSWxOZVNvV3YyeUlJQVkwRjl5TWhJTFBYVHFkS0IxU3ZjNGJOblFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjQyMTY0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjEwX3g2NC1zZXR1cC5leGUKQjI2cGxKTDh0K2Z4ejFQd0JqRmd2MUxUWXBmV3BRNVdvWWQ1dCtFeXdmd1lrald4S1NzQkpYK2Nuc0k3alNic1l6QkVwLzhleGVBUXc5a1pJZmo1Qmc9PQo="
     }
-  }
+  },
+  "version": "0.3.10",
+  "pub_date": "2026-09-29T00:36:08Z"
 }
