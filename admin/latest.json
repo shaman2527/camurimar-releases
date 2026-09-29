@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-09-29T05:55:59Z",
+  "notes": "Ronda 2 completa sin internet: Facturas, Votaciones, Licitaciones, Empleados, Nomina, Asistencia, Solicitudes y Proveedores. Cada seccion guarda su ultima lectura en el equipo (con su fecha), los cambios se aplican al instante y suben solos al volver la red, y la junta puede crear, editar y borrar desde su PC con la clave. Asistencia marca entrada y salida con la hora real. El acta de la junta queda siempre CON AUTOR.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnhFbW4rRk5GTDVhU2xBTG5laUhoQ0pMbmRhL3kwek04TkpOS2lQRHBuQlFoOHlERk9vZkJzU1BoUEpNR0xOa3VUSmZsbzRDYTVFK3l4QjhYZ0dNWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjU5NjczCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE0X3g2NC1zZXR1cC5leGUKcVlwSTR2bjl5NCtOZjJRSHdMOGJqQ052ZmVXc0owbHBzZkpGQjFNdmc4dzNpM2cvekVWUlVLNEVKWm1VcVVaZ05aV1Z1RnFIVzBZbHJqNEk2c3ZHQ0E9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.14/CamuriAdmin_0.3.14_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.15/CamuriAdmin_0.3.15_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjdiY1FVSktBY3lrYVM4OGRyMytKaysxVHBobmNUazlLVEVpYzY4SVllTmIzQXA1UHhTaFoybnNLb1FnYzFpQU5UMzZyTmtDUktMMTdnMURsbGJCS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYxMzU5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE1X3g2NC1zZXR1cC5leGUKRC9HRUF3Zlg2WGVPUHgrbTF1THhDLy93QjVUQzduckExQXBJdnVHV3hCSjRvMk42eFJqTWN5d3I0N0tCZkNydWkvWWgyMGdyN2VTYXdxbm5LbFFYQXc9PQo="
     }
   },
-  "notes": "Carga familiar sin internet: la lista sale de la copia local cuando no hay conexion, editar y desactivar/reactivar se encolan y suben solos, y el ALTA sin internet ya no puede duplicar un familiar (el equipo manda su propio id y el servidor lo respeta).",
-  "pub_date": "2026-09-29T05:27:53Z",
-  "version": "0.3.14"
+  "version": "0.3.15"
 }
