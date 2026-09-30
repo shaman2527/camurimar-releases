@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-30T00:15:50Z",
+  "pub_date": "2026-09-30T02:22:59Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.18/CamuriAdmin_0.3.18_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MndWVTV3YnNJTVNLMk81YzYxb3RnZXo2Q2pHcEhYUkVhUVdoRWh2VkFFTWZNWS9nYUwwWkYrVk8yUDFLTWRPWmsyVXIvbTlRcEQwN1BVQ2RtaDQ2L1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI3MzQ5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE4X3g2NC1zZXR1cC5leGUKeFZQaS8xaEFiWTNLY0lZc3NhWWhmUTRGdHczNUJsNEs0c0ZJZTZZVmIyR3djUjNJeDdnZDdnMEV1TVBxa3JXV2t2ZHdMKzkvemZxLzY4ZVByOStVQ1E9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.19/CamuriAdmin_0.3.19_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZsZWdGWWpKWTFoNVRBZzVSZ0YwZXNqTFJCRDl4aXJKUXFPUk1ZRGpIaVIxT3k5WE55YVhzVTUrd0oyVmxRZWZ6MWlxMDYvMXRxSVFidDJaQlNwZkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM0OTc4CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE5X3g2NC1zZXR1cC5leGUKZWJTU3E2SDhRbkJ0ck1TRFhVQXRhQ1JmOTlwdzFETVNNWXAydklHbjJMRFloN3FGeTJjK290TUJWMWx4UEtDdVVDbkVYdG5qY3orZW5tUDgveGpHRGc9PQo="
     }
   },
-  "notes": "Actividad de la Garita y Visitas con detalle legible, resumen del dia y el sistema de diseno; el detalle ya no es un volcado de JSON (#107, #108)",
-  "version": "0.3.18"
+  "notes": "Las 20 secciones que faltaban pasan al sistema de diseno: el mismo estado, el mismo aviso y la misma tabla en todo el panel (#110)",
+  "version": "0.3.19"
 }
