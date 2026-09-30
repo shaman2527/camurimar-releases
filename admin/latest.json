@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
+  "pub_date": "2026-09-30T00:15:50Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.17/CamuriAdmin_0.3.17_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjhBWDRWempFUWlnSkVqclNiRkwrblphemplU0I5Z01IdHZYMEtOeHlGdzhzeWxvOWI0Yk1NWUtFKzZrMElMWGRML2lyVUNhZ3pKYzRndC9zRllxTHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzIxNjA2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE3X3g2NC1zZXR1cC5leGUKM2JUL1cwMTNmSkowVkJWa1IvNVlxMGplcE1mMXJ1RzRQQ1RxZW9XUXAyL0pRK2djckw5NW5scW5JWlNsT0hSOGJQNjZ6cFQzbjZ0endDUDFFRU1yQnc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.18/CamuriAdmin_0.3.18_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MndWVTV3YnNJTVNLMk81YzYxb3RnZXo2Q2pHcEhYUkVhUVdoRWh2VkFFTWZNWS9nYUwwWkYrVk8yUDFLTWRPWmsyVXIvbTlRcEQwN1BVQ2RtaDQ2L1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI3MzQ5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjE4X3g2NC1zZXR1cC5leGUKeFZQaS8xaEFiWTNLY0lZc3NhWWhmUTRGdHczNUJsNEs0c0ZJZTZZVmIyR3djUjNJeDdnZDdnMEV1TVBxa3JXV2t2ZHdMKzkvemZxLzY4ZVByOStVQ1E9PQo="
     }
   },
-  "notes": "Entrada y salida con hora de salida real, tiempo dentro y tipo de persona; rango de fechas Hoy/7/30 dias (#105)",
-  "pub_date": "2026-09-29T22:40:07Z"
+  "notes": "Actividad de la Garita y Visitas con detalle legible, resumen del dia y el sistema de diseno; el detalle ya no es un volcado de JSON (#107, #108)",
+  "version": "0.3.18"
 }
