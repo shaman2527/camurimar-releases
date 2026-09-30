@@ -1,11 +1,11 @@
 {
+  "notes": "Mensajes claros y amables para el vigilante: que paso y que hacer, sin texto tecnico en pantalla; pantallas del operador con el sistema de diseno (#109)",
+  "version": "0.2.17",
+  "pub_date": "2026-09-30T00:22:06Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.16/CamuriSeguridad_0.2.16_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjR4eXlIaTNEM09ZTm94dXpGbVc1a21BeHAvNFpBSWptV1VYbXNtL09MNm1sUEZGd2VIQUlNaCtMak9UWTRYRDIrMTF3cDR0ckZhTjI5SHVMdTJUQkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzIxMTQyCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xNl94NjQtc2V0dXAuZXhlCm1FVUJLeVpWV1p4Rit3ckhhNUZnTjFGcDFXVXFubGhDU2ZGUjZ6amEzUzhxbGF0YjI5OHRNVkh2SzlKdzFGOFdQd0dFODl6MUcvQm52aXNxSkQvZkF3PT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.17/CamuriSeguridad_0.2.17_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjAxL3RvNDdlUXN5NU5iemJrRzhTT2hRbGpXOVcxVzZRYnJZL3ZrTTFZeDZXMVRQRDgzOWRiOCtXV0NkTkZsdGxPY2NiQzB0TVFoa0thZ2Q3Sjd4U2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI3NzI1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xN194NjQtc2V0dXAuZXhlCkhoeVJCNjVGTFBqTFNDM1ZUM0x5ZE1RVnlRcmh5VG1sbEMrWGdwTWpOV0ZYMHhFd0ZSVHE5YnI4MVFYZlhBblVYeVJKQWo0dExXeVJkVlhhZjlDeUJnPT0K"
     }
-  },
-  "notes": "La salida de un acceso queda registrada con su hora real, el tiempo que estuvo dentro y el tipo de persona (#105)",
-  "pub_date": "2026-09-29T22:32:23Z",
-  "version": "0.2.16"
+  }
 }
