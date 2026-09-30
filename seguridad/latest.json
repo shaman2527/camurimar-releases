@@ -1,11 +1,11 @@
 {
-  "notes": "Mensajes claros y amables para el vigilante: que paso y que hacer, sin texto tecnico en pantalla; pantallas del operador con el sistema de diseno (#109)",
-  "version": "0.2.17",
-  "pub_date": "2026-09-30T00:22:06Z",
+  "notes": "Avisa al vigilante cuando una salida no se pudo registrar, con que hacer (#106)",
+  "pub_date": "2026-09-30T03:17:50Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.17/CamuriSeguridad_0.2.17_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjAxL3RvNDdlUXN5NU5iemJrRzhTT2hRbGpXOVcxVzZRYnJZL3ZrTTFZeDZXMVRQRDgzOWRiOCtXV0NkTkZsdGxPY2NiQzB0TVFoa0thZ2Q3Sjd4U2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI3NzI1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xN194NjQtc2V0dXAuZXhlCkhoeVJCNjVGTFBqTFNDM1ZUM0x5ZE1RVnlRcmh5VG1sbEMrWGdwTWpOV0ZYMHhFd0ZSVHE5YnI4MVFYZlhBblVYeVJKQWo0dExXeVJkVlhhZjlDeUJnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjMxS2Q3YTFsdDJpVnYrbDBOMGJCRlA4cE5EeEJGMUtKYzZuMDdlRC9iMkxJOGVzQStmNEQ1MXNFSlBmK05Ta2xvTGJnTjZPRUxLRnhHRXhlbC91TVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM4MjcwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xOF94NjQtc2V0dXAuZXhlCitYOUtVeHFQNGRlcVJUZ0tKYkx0YUZubTJlSFpVN2VVbGdwQUdka2MxOG8xN3JLMS82TGlua1hwVENHY0RKeWhSbFdyaXE3emtwQkpIOGJGcnJQM0RRPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.18/CamuriSeguridad_0.2.18_x64-setup.exe"
     }
-  }
+  },
+  "version": "0.2.18"
 }
