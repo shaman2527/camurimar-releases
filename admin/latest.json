@@ -1,11 +1,11 @@
 {
+  "notes": "El panel entero se puede LISTAR sin internet: las siete vistas que faltaban guardan su ultima lectura (#112)",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.20/CamuriAdmin_0.3.20_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNENVFyczZQVGlPdTh6ZkNXNUlOS1lteDkvVU9aYTdxOVB3eUhMeklybVRsSnB6M25YclZOS21VcXdmQ1hndi9sbnRCUDh6anRmSHpSZzkrbVRhQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM4NTU3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjIwX3g2NC1zZXR1cC5leGUKMzhYU2c4WnRXOW5hcHpaWk5TY2JFa3Z1NGtDTFVSd0VtZitreU5kYzV0Y3pBQTU2SElBTHVhU2JCeDVJMDdhcmtWQXJDSll6eEd1Q2UxbTNyUnQ5RGc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjhOdHZCQ2FScUpXZTBnRXlzSG45U0FUQ1ErR2NGRDc2clFwWWEzS2hvM3gzNmZnWkRsUEs1Y3Blemp3L1RPMlhtcStpOVg2OXpsWjB1NE5lSFlBVGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQxMzU3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjIxX3g2NC1zZXR1cC5leGUKVW1nSUNpTHgreEJQeUhUMVkvNUg1cWVIOUk0TlhYOU5ZcWpjMVY1b2VsNzhoOGR3Z3llZHcwYWJUTXhzaFJVRUV3WWhuYTUvL0RDNkM2OXROaGlHQkE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.21/CamuriAdmin_0.3.21_x64-setup.exe"
     }
   },
-  "version": "0.3.20",
-  "pub_date": "2026-09-30T03:22:38Z",
-  "notes": "Actividad de la Garita sabe explicar una salida que no se pudo registrar, con que hacer (#106)"
+  "version": "0.3.21",
+  "pub_date": "2026-09-30T04:09:17Z"
 }
