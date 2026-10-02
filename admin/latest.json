@@ -1,11 +1,11 @@
 {
+  "version": "0.3.23",
+  "pub_date": "2026-10-02T02:04:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRLREc0UnBjSDRMTUE3UUs3NFY0clZGRFJxSjBHM2JBVmhKL0g4WUQwdnRuTjFKZ0VmaEU5N29SV0FMdTdJUFZOR05TQnhWZWlkQ25JL0tmYzE0QndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQ3MjM3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjIyX3g2NC1zZXR1cC5leGUKZVhLVFl2eWsraHhTTUxQMEVHSHJHL2JZVkQzVWQ3aE80eTdqdlZ1d3lxTkpmbTBPQVVlUkhPMTBTZEc0RGZldkFBTzVRRWZEUm1saE5Yb1ZGWmIrRFE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.22/CamuriAdmin_0.3.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjBNODhkTXpva01YRkQyZEQvd1dhTWZtTlZtK2VOZjRCdnZoUlNscEFDWlFYM1ROZXJ4TzNOai9IeXRGdzZUV0dOUDhUbEZRLy9VOGYwVGIwdE16c0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTA2Njg0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjIzX3g2NC1zZXR1cC5leGUKdE85dk5CUEV5WE9mYTcyL09IM0ZDVjVlRHFYcjErNjlTdmd4cjZTS0VDOFhvd21yTGtvZFB3Tnd2aWNUdlo0RzRnT3hlaEFxeUYvNmpUL1FJT3BMQVE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.23/CamuriAdmin_0.3.23_x64-setup.exe"
     }
   },
-  "notes": "Cobros de visitas, Acta de la junta y Auditoria con tipografia propia (sin internet), tokens semanticos y el cambio visible en la auditoria (#113)",
-  "pub_date": "2026-09-30T05:47:18Z",
-  "version": "0.3.22"
+  "notes": "La junta da de alta cuentas (correo, nombre, rol y apartamento) desde la propia app, con la clave de la junta pedida en el momento"
 }
