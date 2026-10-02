@@ -1,11 +1,11 @@
 {
+  "notes": "El logo se pinta del tamano que se le pide (estaba 15 veces mas grande) y la ventana ya no se queda en blanco",
+  "version": "0.3.25",
+  "pub_date": "2026-10-02T03:14:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNuaTNzdzlrQnMydFViZzFsdlVsVzFrVkhWeVl1RXRla3YxTHZHRWs1eHltVERsY3E0V0I5bkFCelc5UW9wQXh3Q2x6aWhURVlEMXZRN0RHLzJGOXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTA4MzM2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI0X3g2NC1zZXR1cC5leGUKTjQyZDZKZ2hobXAxUTRJanFOUW0rd3JzdFFieStRR09kSnJJQlVhNWpkVFJsYThIY2pCU212YUxTTG5GVW1FbnlZdnlnL1Vub0tmYmF2RHhkNFFoRHc9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.24/CamuriAdmin_0.3.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitVQS9MWlpjb3ZvTWVWclRyVTkwbmlIQ0krYnZJb2RWSVN6eG9kRzNZN1o0WC9Jem02UHoxQ3ZKYmMvZDR5OHJlWFVyMmE1cEkrZytVd2FCa3pCRmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTEwODg0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI1X3g2NC1zZXR1cC5leGUKVlBVQWZXeWQvVE5FMzZGMDhDdTM3NURoN1JMYlhDYVd1QnNjbTRIazBqY1JyRnR5L3NBUUxnaVY1UDBuYmVWcEFwS2JwM1lISEVVS1NqMjZhRW0rRGc9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.25/CamuriAdmin_0.3.25_x64-setup.exe"
     }
-  },
-  "notes": "Arreglo urgente: la ventana quedaba en blanco (error de hooks de React) y no se veia el logo; el alta de cuentas sigue incluida",
-  "pub_date": "2026-10-02T02:32:17Z",
-  "version": "0.3.24"
+  }
 }
