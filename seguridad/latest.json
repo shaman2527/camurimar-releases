@@ -1,11 +1,11 @@
 {
-  "notes": "Avisa al vigilante cuando una salida no se pudo registrar, con que hacer (#106)",
-  "pub_date": "2026-09-30T03:17:50Z",
+  "notes": "El logo se pinta del tamano que se le pide (estaba 15 veces mas grande)",
+  "pub_date": "2026-10-02T03:34:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjMxS2Q3YTFsdDJpVnYrbDBOMGJCRlA4cE5EeEJGMUtKYzZuMDdlRC9iMkxJOGVzQStmNEQ1MXNFSlBmK05Ta2xvTGJnTjZPRUxLRnhHRXhlbC91TVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM4MjcwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xOF94NjQtc2V0dXAuZXhlCitYOUtVeHFQNGRlcVJUZ0tKYkx0YUZubTJlSFpVN2VVbGdwQUdka2MxOG8xN3JLMS82TGlua1hwVENHY0RKeWhSbFdyaXE3emtwQkpIOGJGcnJQM0RRPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.18/CamuriSeguridad_0.2.18_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.19/CamuriSeguridad_0.2.19_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitFK0c0aG0zcFZyVWUrbW5lZlVSeEJ5RlBMSjVZRW5iVXpJRHVEUjFWMDQ2L2ppZnZmVjlqQXVjQmxCb29KclQ4OTdsaFdRaUs3a2ZhQ1NvUW1TWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTEyMDk2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xOV94NjQtc2V0dXAuZXhlCmxwZ013SWZsMEhQcUl1OEFEdTk1ZmtqVmdxQ09BS2V5Z1VJTlJROGtJVlpXNjZSRkxXZ1hqb3Ayajc3Y1NYZ2pGMWxHSkJGUjFNYWsvcFFKdmJhVURnPT0K"
     }
   },
-  "version": "0.2.18"
+  "version": "0.2.19"
 }
