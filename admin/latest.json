@@ -1,11 +1,11 @@
 {
-  "version": "0.3.23",
-  "pub_date": "2026-10-02T02:04:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjBNODhkTXpva01YRkQyZEQvd1dhTWZtTlZtK2VOZjRCdnZoUlNscEFDWlFYM1ROZXJ4TzNOai9IeXRGdzZUV0dOUDhUbEZRLy9VOGYwVGIwdE16c0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTA2Njg0CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjIzX3g2NC1zZXR1cC5leGUKdE85dk5CUEV5WE9mYTcyL09IM0ZDVjVlRHFYcjErNjlTdmd4cjZTS0VDOFhvd21yTGtvZFB3Tnd2aWNUdlo0RzRnT3hlaEFxeUYvNmpUL1FJT3BMQVE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.23/CamuriAdmin_0.3.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNuaTNzdzlrQnMydFViZzFsdlVsVzFrVkhWeVl1RXRla3YxTHZHRWs1eHltVERsY3E0V0I5bkFCelc5UW9wQXh3Q2x6aWhURVlEMXZRN0RHLzJGOXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTA4MzM2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI0X3g2NC1zZXR1cC5leGUKTjQyZDZKZ2hobXAxUTRJanFOUW0rd3JzdFFieStRR09kSnJJQlVhNWpkVFJsYThIY2pCU212YUxTTG5GVW1FbnlZdnlnL1Vub0tmYmF2RHhkNFFoRHc9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.24/CamuriAdmin_0.3.24_x64-setup.exe"
     }
   },
-  "notes": "La junta da de alta cuentas (correo, nombre, rol y apartamento) desde la propia app, con la clave de la junta pedida en el momento"
+  "notes": "Arreglo urgente: la ventana quedaba en blanco (error de hooks de React) y no se veia el logo; el alta de cuentas sigue incluida",
+  "pub_date": "2026-10-02T02:32:17Z",
+  "version": "0.3.24"
 }
