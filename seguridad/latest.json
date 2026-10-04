@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-04T14:31:43Z",
+  "version": "0.2.21",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVNeE9JcFdXbVhUNXo5TEoxcDBiNzZwRnJvczh5RHhVT0VOZTgwR2ptMkJoN0wwMXFpREhmSjZreEw4VXR0djRzeDM1S1lVRkVkVVJFRU0yWDQreHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI0MzAzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMF94NjQtc2V0dXAuZXhlCkliY0oyZFRTeUdIczU2Nm9CdzdJYm1hb1dzOW5qRGFneTJ2Mzh3UTVFcHJWbWlaajBxRWhXb1VkTy9pSEx3a1owTWFLZ2lBbkwzdGFMemxaSmJzTkFnPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.20/CamuriSeguridad_0.2.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZIdFRsd0RObEtpVHBCTHJyaXBRRDVzR0ZIVUlVNENjVk5FY1FoNjNjblVxNE5McFhIUUt3V2x6MG9BWjAvNmdjVUFQbXpuU3gyWXh5QUxJSUFxdWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMyNjMxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMV94NjQtc2V0dXAuZXhlCi85NHZOdmJVSG40RWQvZ3JzbTA5QkR5a3JqOFpKTythc0dxaXJKelR2cmw4NG11RHJRbllYNW1zRmN4a2lmUUZJMWVsMDBJUnVnTmFjdnBDZnZaR0JnPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.21/CamuriSeguridad_0.2.21_x64-setup.exe"
     }
   },
-  "notes": "La garita ve a todos los duenos con su cedula, el icono de la cedula con su foto, el comando de filtros (limpiar y paleta Ctrl+K), la campana de visitas del dia y el aviso de la visita programada",
-  "version": "0.2.20"
+  "notes": "La garita vuelve a ensenar la rejilla: las cajas de cada apartamento se ven siempre, y el panel de la campana ya no se sale de la pantalla",
+  "pub_date": "2026-10-04T16:50:32Z"
 }
