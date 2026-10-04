@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-10-04T16:55:21Z",
+  "version": "0.3.27",
+  "notes": "En Usuarios, la cuenta de un propietario lleva su apartamento: es obligatorio al crearla y se puede poner o cambiar despues (incluidas las cuentas que se quedaron sin el)",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZwMTBKc0lxQzRCZVpBWUVIYnJuZTNENG8zS3ZZK3ZHME8rL1BzVGt1eXgzOEZEK1JYSTJmVXA2eXU1NDJydjFHcWtrQjB4bm9rOXlwVVJqUVJKV1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI0NTczCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI2X3g2NC1zZXR1cC5leGUKeTZ2ZE9mdTdvVUFRTGdaMlh1VXBmdTdMcE9CdldXZ1RlOVRVWG91bEg1RWtUVnJ3d2lRSDZYa3diUHU4YWpBUDdBTVJsU0NtWE4wZlpqSi9rUmRXQ3c9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.26/CamuriAdmin_0.3.26_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.27/CamuriAdmin_0.3.27_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnczVklUUFJHZXNTZ1c1QzJTNVh2WmYyM1BTa052TXNXZHJNdGZPSlJBU3YrS2FiTy9lU2VzZHJ5eGloN2ExODFOUTB3eVpYNm11VXRZbjY2MXN6cWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMyOTIwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI3X3g2NC1zZXR1cC5leGUKUWhBUitXRDhTMENUZUprdjhMbmxYNHNWR0diN041SVNPVkUzWmxUVjVKeGVoejhBeERIUU1yMTZVU3RzLzdCS28xalRBN2JZS0ZTRzAvaHZjVUJzRGc9PQo="
     }
-  },
-  "version": "0.3.26",
-  "notes": "La copia local de la junta guarda las fichas de propietario con su cedula y su foto (lo que edita en su panel viaja tambien a la app)",
-  "pub_date": "2026-10-04T14:36:13Z"
+  }
 }
