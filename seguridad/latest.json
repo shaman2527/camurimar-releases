@@ -1,11 +1,11 @@
 {
-  "notes": "El logo se pinta del tamano que se le pide (estaba 15 veces mas grande)",
-  "pub_date": "2026-10-02T03:34:58Z",
+  "pub_date": "2026-10-04T14:31:43Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.19/CamuriSeguridad_0.2.19_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitFK0c0aG0zcFZyVWUrbW5lZlVSeEJ5RlBMSjVZRW5iVXpJRHVEUjFWMDQ2L2ppZnZmVjlqQXVjQmxCb29KclQ4OTdsaFdRaUs3a2ZhQ1NvUW1TWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTEyMDk2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4xOV94NjQtc2V0dXAuZXhlCmxwZ013SWZsMEhQcUl1OEFEdTk1ZmtqVmdxQ09BS2V5Z1VJTlJROGtJVlpXNjZSRkxXZ1hqb3Ayajc3Y1NYZ2pGMWxHSkJGUjFNYWsvcFFKdmJhVURnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjVNeE9JcFdXbVhUNXo5TEoxcDBiNzZwRnJvczh5RHhVT0VOZTgwR2ptMkJoN0wwMXFpREhmSjZreEw4VXR0djRzeDM1S1lVRkVkVVJFRU0yWDQreHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI0MzAzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMF94NjQtc2V0dXAuZXhlCkliY0oyZFRTeUdIczU2Nm9CdzdJYm1hb1dzOW5qRGFneTJ2Mzh3UTVFcHJWbWlaajBxRWhXb1VkTy9pSEx3a1owTWFLZ2lBbkwzdGFMemxaSmJzTkFnPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.20/CamuriSeguridad_0.2.20_x64-setup.exe"
     }
   },
-  "version": "0.2.19"
+  "notes": "La garita ve a todos los duenos con su cedula, el icono de la cedula con su foto, el comando de filtros (limpiar y paleta Ctrl+K), la campana de visitas del dia y el aviso de la visita programada",
+  "version": "0.2.20"
 }
