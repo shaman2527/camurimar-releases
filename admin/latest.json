@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-04T16:55:21Z",
-  "version": "0.3.27",
-  "notes": "En Usuarios, la cuenta de un propietario lleva su apartamento: es obligatorio al crearla y se puede poner o cambiar despues (incluidas las cuentas que se quedaron sin el)",
+  "pub_date": "2026-10-04T18:36:58Z",
+  "version": "0.3.28",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.27/CamuriAdmin_0.3.27_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnczVklUUFJHZXNTZ1c1QzJTNVh2WmYyM1BTa052TXNXZHJNdGZPSlJBU3YrS2FiTy9lU2VzZHJ5eGloN2ExODFOUTB3eVpYNm11VXRZbjY2MXN6cWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMyOTIwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI3X3g2NC1zZXR1cC5leGUKUWhBUitXRDhTMENUZUprdjhMbmxYNHNWR0diN041SVNPVkUzWmxUVjVKeGVoejhBeERIUU1yMTZVU3RzLzdCS28xalRBN2JZS0ZTRzAvaHZjVUJzRGc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.28/CamuriAdmin_0.3.28_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnpGaklHQUVyakJhZ3pkdHFXNHkyOTFZaTJwOW9CK0FmQnY1TFJtSnpBZ3JjWkVpTGdINHNvNEZSZEdVR3RUVGYySU1XLzhGNlU2cUgwWlhwY1N0eEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM5MDE3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI4X3g2NC1zZXR1cC5leGUKRHkzZitvZStMay9sSUZWMktBMURGZmR2ZjdCUzdqbnFhUHVhOHVqbzRCMzNSMGt2bWpiNTR0OXM2WlF0ZmhkaFlNSEIzWWJxZDNXbC9PZy9Dc3NKRGc9PQo="
     }
-  }
+  },
+  "notes": "La junta recibe una campana con las novedades de la garita y puede resolverlas sin salir de la app; y cambiar el nombre de un propietario pide la clave de la junta en el momento"
 }
