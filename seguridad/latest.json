@@ -1,11 +1,11 @@
 {
-  "version": "0.2.21",
+  "pub_date": "2026-10-06T20:45:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZIdFRsd0RObEtpVHBCTHJyaXBRRDVzR0ZIVUlVNENjVk5FY1FoNjNjblVxNE5McFhIUUt3V2x6MG9BWjAvNmdjVUFQbXpuU3gyWXh5QUxJSUFxdWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMyNjMxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMV94NjQtc2V0dXAuZXhlCi85NHZOdmJVSG40RWQvZ3JzbTA5QkR5a3JqOFpKTythc0dxaXJKelR2cmw4NG11RHJRbllYNW1zRmN4a2lmUUZJMWVsMDBJUnVnTmFjdnBDZnZaR0JnPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.21/CamuriSeguridad_0.2.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjE4YXV3aldIMGVkaG0vdWV1MWVnRnRhK25TQnB1Y3NtNGlPK1prWjBpSmRBandxc09mVVdOU3JJbldtUkEwd0R3K3FCSjNCZXF1RDNSZ0lrbndYUGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE5NTM3CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMl94NjQtc2V0dXAuZXhlCk9uUGJ4LzNKZGVoUkhSVDZEbTdkMXVDK1QvY2h1Ukc4Z1cxbmRlYTFvUEw4a0NUUDErNjlvcVRGTDZEOGdsWmRJUXRrOXVPUkFnM0NyNnNSaElkSEFBPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.22/CamuriSeguridad_0.2.22_x64-setup.exe"
     }
   },
-  "notes": "La garita vuelve a ensenar la rejilla: las cajas de cada apartamento se ven siempre, y el panel de la campana ya no se sale de la pantalla",
-  "pub_date": "2026-10-04T16:50:32Z"
+  "version": "0.2.22",
+  "notes": "La clave de la tablet se pone UNA vez: la app abre con ella y no vuelve a pedir el correo (#153)"
 }
