@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-06T20:45:38Z",
+  "version": "0.2.23",
+  "pub_date": "2026-10-07T21:55:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjE4YXV3aldIMGVkaG0vdWV1MWVnRnRhK25TQnB1Y3NtNGlPK1prWjBpSmRBandxc09mVVdOU3JJbldtUkEwd0R3K3FCSjNCZXF1RDNSZ0lrbndYUGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE5NTM3CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yMl94NjQtc2V0dXAuZXhlCk9uUGJ4LzNKZGVoUkhSVDZEbTdkMXVDK1QvY2h1Ukc4Z1cxbmRlYTFvUEw4a0NUUDErNjlvcVRGTDZEOGdsWmRJUXRrOXVPUkFnM0NyNnNSaElkSEFBPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.22/CamuriSeguridad_0.2.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnhJVGU0d09KUG9XVmdSeWx6aTRxKzZKVHhHN1M5YTdUYkVnS1FkbkJ4djg0eW5XUUx6YlVBaG5ucVc3Q3lGRWxXK2RkT29kVnZlZlphVXVhelJ2Tmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEwMTEzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yM194NjQtc2V0dXAuZXhlCnFqU01HRElhMnZTdGgxZjV5WXVsbWxESC9sQ09DV3BZa0lka2dObW9vSVRMc05IZzlwS0Z2ZDIrckJjbi9yZFdIemVkMzAxWlhGQWZaanZZV25jeUFBPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.23/CamuriSeguridad_0.2.23_x64-setup.exe"
     }
   },
-  "version": "0.2.22",
-  "notes": "La clave de la tablet se pone UNA vez: la app abre con ella y no vuelve a pedir el correo (#153)"
+  "notes": "La garita captura la cedula que falta, con aviso «verifica la cedula» y confirmacion (#116)"
 }
