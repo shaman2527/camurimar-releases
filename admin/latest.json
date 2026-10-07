@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-04T18:36:58Z",
-  "version": "0.3.28",
+  "notes": "La carga masiva de familiares por CSV desde la app: plantilla, vista previa antes de escribir y parentescos nuevos (#114)",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.28/CamuriAdmin_0.3.28_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnpGaklHQUVyakJhZ3pkdHFXNHkyOTFZaTJwOW9CK0FmQnY1TFJtSnpBZ3JjWkVpTGdINHNvNEZSZEdVR3RUVGYySU1XLzhGNlU2cUgwWlhwY1N0eEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM5MDE3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI4X3g2NC1zZXR1cC5leGUKRHkzZitvZStMay9sSUZWMktBMURGZmR2ZjdCUzdqbnFhUHVhOHVqbzRCMzNSMGt2bWpiNTR0OXM2WlF0ZmhkaFlNSEIzWWJxZDNXbC9PZy9Dc3NKRGc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.29/CamuriAdmin_0.3.29_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnhHRzA2OXNpOWtnRkNtOWNXaHZ3bjVkRG5xNU9keXBLd3VHbUpRVDB1aWNrcFU5VWc1RmVsZ0pxS0dQek9QNzhoKy9BRE9lMkQ0U1U4Tmk3WDN2Y0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ0NjE2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI5X3g2NC1zZXR1cC5leGUKM0VUd2VBcFdFaS9wYlBQTmIwRzhnMzZkM091Q0RTVitwMlN2eEpPVWlocGZhWVNoMzBGdDNoWnlyb2gxZGdFYVFOQ1hwVzM2Tjh1T1JkMDNqL3BRQVE9PQo="
     }
   },
-  "notes": "La junta recibe una campana con las novedades de la garita y puede resolverlas sin salir de la app; y cambiar el nombre de un propietario pide la clave de la junta en el momento"
+  "pub_date": "2026-10-07T03:43:37Z",
+  "version": "0.3.29"
 }
