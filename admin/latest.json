@@ -1,11 +1,11 @@
 {
-  "notes": "La carga masiva de familiares por CSV desde la app: plantilla, vista previa antes de escribir y parentescos nuevos (#114)",
+  "notes": "El limite de familiares por apartamento lo pone la junta desde Configuracion, y la lista dice quien no llego a la garita (#119)",
+  "version": "0.3.30",
+  "pub_date": "2026-10-08T00:58:11Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.29/CamuriAdmin_0.3.29_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnhHRzA2OXNpOWtnRkNtOWNXaHZ3bjVkRG5xNU9keXBLd3VHbUpRVDB1aWNrcFU5VWc1RmVsZ0pxS0dQek9QNzhoKy9BRE9lMkQ0U1U4Tmk3WDN2Y0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ0NjE2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjI5X3g2NC1zZXR1cC5leGUKM0VUd2VBcFdFaS9wYlBQTmIwRzhnMzZkM091Q0RTVitwMlN2eEpPVWlocGZhWVNoMzBGdDNoWnlyb2gxZGdFYVFOQ1hwVzM2Tjh1T1JkMDNqL3BRQVE9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.30/CamuriAdmin_0.3.30_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MngxSmFDdWVhMzk0Sy9rWWlPY1FHbzVSYUJJdWRLM29TaC9WdTVBNjR1SFZ4bGtnVWxkcHJxMGpNVUhSUjVtL2hyWndZS21JVnZTTzVqdEwxd2xVMlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIxMDkwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjMwX3g2NC1zZXR1cC5leGUKZFBsN3ErMVFSbytTWVJPVUEwUGtKOHlFYzFUa0ZaRUE5bVAzSXhpY2ZORWJ3Ym9tcnUxaUNEdGExRFFqSzVhTmV3U0xLcTFMMWYraVpqZXFvMnNCQXc9PQo="
     }
-  },
-  "pub_date": "2026-10-07T03:43:37Z",
-  "version": "0.3.29"
+  }
 }
