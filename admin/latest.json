@@ -1,11 +1,11 @@
 {
-  "notes": "El limite de familiares por apartamento lo pone la junta desde Configuracion, y la lista dice quien no llego a la garita (#119)",
-  "version": "0.3.30",
-  "pub_date": "2026-10-08T00:58:11Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.30/CamuriAdmin_0.3.30_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MngxSmFDdWVhMzk0Sy9rWWlPY1FHbzVSYUJJdWRLM29TaC9WdTVBNjR1SFZ4bGtnVWxkcHJxMGpNVUhSUjVtL2hyWndZS21JVnZTTzVqdEwxd2xVMlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIxMDkwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjMwX3g2NC1zZXR1cC5leGUKZFBsN3ErMVFSbytTWVJPVUEwUGtKOHlFYzFUa0ZaRUE5bVAzSXhpY2ZORWJ3Ym9tcnUxaUNEdGExRFFqSzVhTmV3U0xLcTFMMWYraVpqZXFvMnNCQXc9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.31/CamuriAdmin_0.3.31_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjAxdTYvYittR3BFelVPQUFzcDZ5RTRpcmtQTlljN3BoUXpPSzgyV1UxT3pmRzVYKzZybnA3SFdKNGZRUUs5WGk3VFdqSGFnSFlnLzNKbTE2cTgrVXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDYwNDcwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjMxX3g2NC1zZXR1cC5leGUKdCt2Rm93c3Zpa1lzMi9qTFg2TDdPOGRVRllodDNscndjZ1JwZ1pyZjc5T09jRFJZcWdiblAyc2dsUEpENEVxcktMVXNFK3dSNG5oRERrcDBja3djQ1E9PQo="
     }
-  }
+  },
+  "version": "0.3.31",
+  "notes": "Padron: una pestana con TODOS los apartamentos (codigo, torre/piso, titular y solvencia, con buscador) y, al abrir cada uno, el perfil de sus propietarios con su cedula y foto JUNTO con sus familiares, quien esta dentro y los accesos recientes. Y en Usuarios, el CORREO DE ACCESO de una cuenta se puede cambiar (con la clave de la junta, con acta): el propietario entra con un enlace magico al correo nuevo y el viejo deja de servir.",
+  "pub_date": "2026-10-08T11:54:31Z"
 }
