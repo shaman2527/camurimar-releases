@@ -1,11 +1,11 @@
 {
-  "version": "0.2.23",
-  "pub_date": "2026-10-07T21:55:14Z",
+  "version": "0.2.24",
+  "pub_date": "2026-10-11T00:32:30Z",
+  "notes": "La garita ya no se queda con cambios que no suben: no se encola nada sin apartamento, lo que el servidor rechaza se dice aparte (con su motivo y con salida para enviarlo a mano o descartarlo) y el cobro de una visita deja de quedarse atascado. Ademas, si la conexion se corta a mitad, el aviso lo dice tal cual en vez de culpar a tu red.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnhJVGU0d09KUG9XVmdSeWx6aTRxKzZKVHhHN1M5YTdUYkVnS1FkbkJ4djg0eW5XUUx6YlVBaG5ucVc3Q3lGRWxXK2RkT29kVnZlZlphVXVhelJ2Tmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEwMTEzCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yM194NjQtc2V0dXAuZXhlCnFqU01HRElhMnZTdGgxZjV5WXVsbWxESC9sQ09DV3BZa0lka2dObW9vSVRMc05IZzlwS0Z2ZDIrckJjbi9yZFdIemVkMzAxWlhGQWZaanZZV25jeUFBPT0K",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.23/CamuriSeguridad_0.2.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mjl6NThSakp4cEs0Rkx4cXFCRlg0WnpQaExJZXFPUUVYMlVNc1FXQlhGRkp1aWl0ekZIbnZNTGhQQldwNnBTN2pqTmJ3V0x5QTZhRVdpNURmZUVIUXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc4NzQ5CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yNF94NjQtc2V0dXAuZXhlCjlwNHJqeG44c0ZId2ZOZjkwVWxRS1ZpS3JyVlh3cUdtODNiZVRRK1JLckVaV09Pam9xOHdtM0F3S1gyUWpCSzJvVnRkM0FpVXRYV3JGMVIrQkwycUN3PT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.24/CamuriSeguridad_0.2.24_x64-setup.exe"
     }
-  },
-  "notes": "La garita captura la cedula que falta, con aviso «verifica la cedula» y confirmacion (#116)"
+  }
 }
