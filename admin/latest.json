@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.31/CamuriAdmin_0.3.31_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjAxdTYvYittR3BFelVPQUFzcDZ5RTRpcmtQTlljN3BoUXpPSzgyV1UxT3pmRzVYKzZybnA3SFdKNGZRUUs5WGk3VFdqSGFnSFlnLzNKbTE2cTgrVXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDYwNDcwCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjMxX3g2NC1zZXR1cC5leGUKdCt2Rm93c3Zpa1lzMi9qTFg2TDdPOGRVRllodDNscndjZ1JwZ1pyZjc5T09jRFJZcWdiblAyc2dsUEpENEVxcktMVXNFK3dSNG5oRERrcDBja3djQ1E9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.32/CamuriAdmin_0.3.32_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNmeTlUQjV5OVpaTnhPbkp6MHdXN1BDK2lGUU12d0xWMG1UaTBTOGY2eFF2VEQxbnh2WjlvZWtCckVYbEhyUStLanJVN1ZQakd6YXRxM1l3cnBKblE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc5MDM3CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjMyX3g2NC1zZXR1cC5leGUKSWJBaWdtcTNxNFdKWUZTRXFROWRXbE1MclAyaFR5dmZYVGZDTnpKdS83NkliU0tYT3R2SDliWnJhNVFLbGJFQVdtSDlWMnlzRlVtR1JHSEVZemIxQUE9PQo="
     }
   },
-  "version": "0.3.31",
-  "notes": "Padron: una pestana con TODOS los apartamentos (codigo, torre/piso, titular y solvencia, con buscador) y, al abrir cada uno, el perfil de sus propietarios con su cedula y foto JUNTO con sus familiares, quien esta dentro y los accesos recientes. Y en Usuarios, el CORREO DE ACCESO de una cuenta se puede cambiar (con la clave de la junta, con acta): el propietario entra con un enlace magico al correo nuevo y el viejo deja de servir.",
-  "pub_date": "2026-10-08T11:54:31Z"
+  "pub_date": "2026-10-11T00:37:18Z",
+  "version": "0.3.32",
+  "notes": "La actualizacion ahora se baja por TROZOS en paralelo y se REANUDA si la conexion se corta (antes se quedaba en un porcentaje y fallaba con un error en ingles), con boton de reintentar que sigue donde iba. Ademas, si el instalador no llega a lanzarse el estado lo dice tal cual (no miente) y 'Restaurar version anterior' ya no puede devolverte a una version mas vieja sin explicar por que."
 }
