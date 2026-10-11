@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.34/CamuriAdmin_0.3.34_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlDcnpHUWlsbTFaQ2lNbjR6OW5Ddys1SUxVMFJWaHNJcm5YK252bVZRTkM2bWFNSjFtdTA2YUU2SDcvM2c1TmJ4L2RYMFh5U1UvYnBZQWF6OE5MN3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzM5MzI5CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM0X3g2NC1zZXR1cC5leGUKSnNkd3VOMFJYWDBwaVlhbU9XazU4SzVoWWJTeVlGa0F1RjBBby92aHpPZzlCUTlsb0dCdi9vTE5CZkN6QWJ2aGdnbzFTOWdPV3BpZ0hIZU8wS3dBQ3c9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZtMzZWdjRCRU9uYXlCbnBya2ZsRmFrQzZ2TXZOUkg3WW9CcUs0NnpRNGxtRCtnMXZCK0JsMjJDbUp6UERuVEpmcUs0anE3TjJrRWFoYzd4bkxJbmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU1ODYzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM1X3g2NC1zZXR1cC5leGUKQmFqVXd4azE4S1o2bzZlQWRYb0Nvem94M2FZSytITlFrTmpBVXNYSFZMM0dFKzZ3LzhtaXF4cjBhSWJjeVNZc1dDd0RIQno2NjhqN1F5TE9WRE1GREE9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.35/CamuriAdmin_0.3.35_x64-setup.exe"
     }
   },
-  "version": "0.3.34",
-  "notes": "La junta ve QUIEN SIGUE DENTRO: tarjeta Proveedores dentro en Control de puerta (nombre, empresa, motivo, destino y tiempo dentro, el que lleva mas tiempo primero) y en Proveedores cada fila dice Dentro, Salio a las HH:MM o Sin registro de salida",
-  "pub_date": "2026-10-11T17:22:10Z"
+  "pub_date": "2026-10-11T21:57:45Z",
+  "version": "0.3.35",
+  "notes": "La junta puede ELIMINAR un familiar de verdad: pide la clave de la junta, deja acta y auditoria, y su historial de accesos se conserva. Desactivar sigue ahi: son dos cosas distintas. Sin conexion no se ofrece, porque borrar no se puede quedar a medias"
 }
