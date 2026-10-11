@@ -1,11 +1,11 @@
 {
-  "version": "0.2.25",
-  "pub_date": "2026-10-11T06:30:41Z",
-  "notes": "La garita dice A DONDE va el proveedor: un apartamento o un area comun (11 areas del conjunto + 7 de servicio), y no acepta un registro sin destino",
+  "version": "0.2.26",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.25/CamuriSeguridad_0.2.25_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjBKQW83KzBKU1JmMWdMZXllYytlR29IeHNOWTJlV0M2RXBSNUhmbTNidTlZRUgzQ0J6VUdwbDVqTVYwVkNjd3hXUy94TGZBdFlxbkpFNWZ3bkdYc1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzAwMjQwCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yNV94NjQtc2V0dXAuZXhlCjdDN3ptdFR4V1d1azJGTXRqZHlES3FGWUJpM0Zvc0JnYzFwekdxZmZwV3FpQU1kWXNaYnViSVlCSnNWV2IwdHNVenplTVlWTDdQaXF3VDFJNUNwTkJRPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.26/CamuriSeguridad_0.2.26_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRNN0h4dUtYWWllSlZKbldxb1l1emZlVmJ4NG1VMStVRm1tSXRiVlVVaEdDNTFXVU51R2ZvSUdVcUxLejFDWDEydVYwT3kwdklEWkwra0M2enZhSFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ1MzAxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yNl94NjQtc2V0dXAuZXhlCnFub081Vmw5ZEJuTDUrL1F5MkdQWk5ObWh3c3FQMkJuN0VsMDgzUXc5ckpqSVViLzgvajRMTXBGeWFON2szRVRKTU5mL0hvdC8zWEc0dGJXdWhHVUJBPT0K"
     }
-  }
+  },
+  "notes": "La garita marca la entrada por CADA propietario: cuando llega un copropietario se marca solo al que vino (antes se marcaba a los dos). La fila anotada antes del cambio sigue visible y se puede cerrar",
+  "pub_date": "2026-10-11T19:01:41Z"
 }
