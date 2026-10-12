@@ -1,11 +1,11 @@
 {
-  "version": "0.2.26",
+  "notes": "Fuera 'Invitados frecuentes' de la vista (#176): el modal del apartamento ya no ofrece ese bloque (el vigilante ve Familiares Registrados y Visitas Programadas, igual que antes) y el panel del propietario pierde la pestana. CERO filas borradas: la tabla invitados_frecuentes sigue viva como copia derivada de familiares para la garita sin internet.",
+  "pub_date": "2026-10-12T05:44:26Z",
+  "version": "0.2.27",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.26/CamuriSeguridad_0.2.26_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRNN0h4dUtYWWllSlZKbldxb1l1emZlVmJ4NG1VMStVRm1tSXRiVlVVaEdDNTFXVU51R2ZvSUdVcUxLejFDWDEydVYwT3kwdklEWkwra0M2enZhSFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ1MzAxCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yNl94NjQtc2V0dXAuZXhlCnFub081Vmw5ZEJuTDUrL1F5MkdQWk5ObWh3c3FQMkJuN0VsMDgzUXc5ckpqSVViLzgvajRMTXBGeWFON2szRVRKTU5mL0hvdC8zWEc0dGJXdWhHVUJBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjFQVmVYdHl4b0lqS0I0Z1hWdEx1WExQbUxCODVlaWJvNVVxSFhXVlhheG15WktacEpyc3IvMnVIQzh0ZUI4UXZBRnNwcUYwanAwUDd4V1Z2MllXTVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgzODY1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yN194NjQtc2V0dXAuZXhlCmgyeHRiWHF1YWhSdVNhUDRyMWdWRlBmTkphcDhJNGMwc0UrcDROR0owN21YVkpjYmZLeUt5SU9uSWd6M1ZCWVA4VGJUV3d0NVA5MGdjdFhzTUkrMUNnPT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.27/CamuriSeguridad_0.2.27_x64-setup.exe"
     }
-  },
-  "notes": "La garita marca la entrada por CADA propietario: cuando llega un copropietario se marca solo al que vino (antes se marcaba a los dos). La fila anotada antes del cambio sigue visible y se puede cerrar",
-  "pub_date": "2026-10-11T19:01:41Z"
+  }
 }
