@@ -1,11 +1,11 @@
 {
+  "version": "0.3.36",
+  "notes": "La campana de la junta avisa tambien de las SOLICITUDES pendientes (#175): dos fuentes, un globito que es la suma, dos grupos con su cuenta, boton Revisar que solo navega, y una fuente que no se pudo leer NO se cuenta como cero. Incluye el en vivo de solicitudes_familiares (migracion 0056 ya aplicada).",
+  "pub_date": "2026-10-12T05:37:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZtMzZWdjRCRU9uYXlCbnBya2ZsRmFrQzZ2TXZOUkg3WW9CcUs0NnpRNGxtRCtnMXZCK0JsMjJDbUp6UERuVEpmcUs0anE3TjJrRWFoYzd4bkxJbmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU1ODYzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM1X3g2NC1zZXR1cC5leGUKQmFqVXd4azE4S1o2bzZlQWRYb0Nvem94M2FZSytITlFrTmpBVXNYSFZMM0dFKzZ3LzhtaXF4cjBhSWJjeVNZc1dDd0RIQno2NjhqN1F5TE9WRE1GREE9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.35/CamuriAdmin_0.3.35_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.36/CamuriAdmin_0.3.36_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlGMzgwTUI1eU9kc0ovLzFhSitsUXl0ak5Ha0JnUEVkN2w5TlB1WDQ1ZStPcDZjdlUrNXdEL2ZyRUpqaEluR3VVUlY2UnZhOGIreUZHeXBZemdGNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgzNDc1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM2X3g2NC1zZXR1cC5leGUKU3JITjJyM0RXR0o2NENpT1hMUXFTaE0yOGk0WkNTVWlXVEVHaDRSNzc1MjR1MjBJcUl1NmVoVlVwYkErV3Y2aEhzcG53Vm1VMTNhdmhJbmpiWUVtQ2c9PQo="
     }
-  },
-  "pub_date": "2026-10-11T21:57:45Z",
-  "version": "0.3.35",
-  "notes": "La junta puede ELIMINAR un familiar de verdad: pide la clave de la junta, deja acta y auditoria, y su historial de accesos se conserva. Desactivar sigue ahi: son dos cosas distintas. Sin conexion no se ofrece, porque borrar no se puede quedar a medias"
+  }
 }
