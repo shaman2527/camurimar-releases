@@ -1,11 +1,11 @@
 {
-  "version": "0.3.36",
-  "notes": "La campana de la junta avisa tambien de las SOLICITUDES pendientes (#175): dos fuentes, un globito que es la suma, dos grupos con su cuenta, boton Revisar que solo navega, y una fuente que no se pudo leer NO se cuenta como cero. Incluye el en vivo de solicitudes_familiares (migracion 0056 ya aplicada).",
-  "pub_date": "2026-10-12T05:37:56Z",
+  "notes": "En Usuarios, la junta ya AUTORIZA y REVOCA el equipo de la garita: la ventana «Equipos autorizados» trae el boton «Autorizar este equipo» (se pega el «Codigo de este equipo» que la garita le ensena al vigilante) y un boton «Revocar» por equipo. Autorizar uno nuevo DESACTIVA el anterior y la ventana dice cual, porque la garita de una cuenta entra desde UN solo equipo. Antes esta pantalla no llegaba ni a preguntar al servidor: se quedaba con un aviso tecnico.",
+  "version": "0.3.37",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.36/CamuriAdmin_0.3.36_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjlGMzgwTUI1eU9kc0ovLzFhSitsUXl0ak5Ha0JnUEVkN2w5TlB1WDQ1ZStPcDZjdlUrNXdEL2ZyRUpqaEluR3VVUlY2UnZhOGIreUZHeXBZemdGNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgzNDc1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM2X3g2NC1zZXR1cC5leGUKU3JITjJyM0RXR0o2NENpT1hMUXFTaE0yOGk0WkNTVWlXVEVHaDRSNzc1MjR1MjBJcUl1NmVoVlVwYkErV3Y2aEhzcG53Vm1VMTNhdmhJbmpiWUVtQ2c9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.37/CamuriAdmin_0.3.37_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnpvbERqWUhrUzNJOVpWV3dVNy94dVBGWE82d3M3cExlYzQ1SWo4TE40N3ArVFc2UVZrM25XeUZqWHFSSmxPMHlETE0zTEJKYlBQcC9vakJENUNFeVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTEyMDc1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM3X3g2NC1zZXR1cC5leGUKUU9QMjg4NlZ2SXFMYTQwbWxEazBVK045MExBTy9GbTdQUG1UTElsL1JKakI1NUpnMVFTa1JUUE5kWXBPRllaLzdGU0lpa0lrbU1PaUVRV3lxTXhrQVE9PQo="
     }
-  }
+  },
+  "pub_date": "2026-10-16T00:54:36Z"
 }
