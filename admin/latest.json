@@ -1,11 +1,11 @@
 {
-  "notes": "En Usuarios, la junta ya AUTORIZA y REVOCA el equipo de la garita: la ventana «Equipos autorizados» trae el boton «Autorizar este equipo» (se pega el «Codigo de este equipo» que la garita le ensena al vigilante) y un boton «Revocar» por equipo. Autorizar uno nuevo DESACTIVA el anterior y la ventana dice cual, porque la garita de una cuenta entra desde UN solo equipo. Antes esta pantalla no llegaba ni a preguntar al servidor: se quedaba con un aviso tecnico.",
-  "version": "0.3.37",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.37/CamuriAdmin_0.3.37_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnpvbERqWUhrUzNJOVpWV3dVNy94dVBGWE82d3M3cExlYzQ1SWo4TE40N3ArVFc2UVZrM25XeUZqWHFSSmxPMHlETE0zTEJKYlBQcC9vakJENUNFeVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTEyMDc1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM3X3g2NC1zZXR1cC5leGUKUU9QMjg4NlZ2SXFMYTQwbWxEazBVK045MExBTy9GbTdQUG1UTElsL1JKakI1NUpnMVFTa1JUUE5kWXBPRllaLzdGU0lpa0lrbU1PaUVRV3lxTXhrQVE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjhYTEVuM09wRXBFcWMrTVBGZXpDMHI3WlNEZXU5MzNYMElnbjNEcGdGWjFXUlJMdDY5dm5BZENVdGRyQXRWVlRhVzJ2aUxmQ0hZa0FSS3FDaUhjMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2NjAyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM4X3g2NC1zZXR1cC5leGUKcktHVkJXdEZUQ0VJVWJGL1c2VmExMEVUZmNKRlFOSVBTbXRScTFDei82TkVZcUZ3QnNXQ2ZaelNzbGFXbzhyTWdabzlJUTlrTWRBQ2NtWXRVckJtQXc9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.38/CamuriAdmin_0.3.38_x64-setup.exe"
     }
   },
-  "pub_date": "2026-10-16T00:54:36Z"
+  "pub_date": "2026-10-20T22:50:02Z",
+  "notes": "Documentos de propiedad: la junta consulta por apartamento el titulo de propiedad o el poder notariado que sube el propietario, con su PDF y su estado de revision. Mejoras de rendimiento en el perfil del propietario y en el registro de documentos.",
+  "version": "0.3.38"
 }
