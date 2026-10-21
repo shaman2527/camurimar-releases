@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-16T01:00:15Z",
-  "notes": "La garita entra desde UN SOLO equipo: la app manda el codigo propio de ESTE equipo en todas sus peticiones y, si este equipo no es el que la junta autorizo, la pantalla lo dice en espanol (no un «No autorizado» a secas) con el «Codigo de este equipo» en grande y para copiar, que es lo que el vigilante le dicta a la junta. No hay que cerrar sesion ni volver a entrar: la sesion del vigilante esta bien, lo que falta es que la junta autorice el equipo.",
+  "version": "0.2.29",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.28/CamuriSeguridad_0.2.28_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjZGSGFHcFREUUpneWN4M2g4YjdoeU1SRUhnemF6M1c4L1RIQmJnMUtscENyeUtFU1dlRllnWnBIQnBhZTJWaFBXNGhWMWZjSlJMUFZpZVptYjZ4dXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTEyNDE1CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yOF94NjQtc2V0dXAuZXhlCjRRZ3lwOWFOVGc3SmpvRlNXZFB6V2gzSzlNSTdXam5INFVPb0YxVVBJL3R2bzMvL0J4MVhzNFNYaGJUanVyQ1RhSUE0ZGJJWWdjQ1RndzQ3L0lncUFBPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.29/CamuriSeguridad_0.2.29_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRKc2JSWE5rbkpIM0VuVW0xQS8wSkZUcHRyT3J6ZVFXTERFME1QZWI3ZW8wKzYzNE10U1JFcksrMGdreUVEa2NZTmhCRVViVnJvRGFyYmlEWWxWamdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQyODM2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yOV94NjQtc2V0dXAuZXhlCmNLREtJbHdLcURTSFcxMFBZeDVoS0FhaGdqR0ZNc2ZYVmgwdU14WGhaWXJCUGxXV3JwVmVwb0VYeVo5RWJjQjJZT3NSL2xkZDh3Qlk5RThuYkFXQUJRPT0K"
     }
   },
-  "version": "0.2.28"
+  "pub_date": "2026-10-21T00:33:57Z",
+  "notes": "Las cajas de cada apartamento y el buscador resaltan el borde con el raton (azul de la marca) y el texto se lee con mas contraste: pensado para que las personas mayores no pierdan el sitio en la rejilla."
 }
