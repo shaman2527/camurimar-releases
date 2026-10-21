@@ -1,11 +1,11 @@
 {
-  "version": "0.2.29",
+  "pub_date": "2026-10-21T22:21:13Z",
+  "notes": "La foto de la cedula en la lista de familiares, buscador por cedula y el poder del visitante programado en PDF (feature #224)",
+  "version": "0.2.30",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.29/CamuriSeguridad_0.2.29_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjRKc2JSWE5rbkpIM0VuVW0xQS8wSkZUcHRyT3J6ZVFXTERFME1QZWI3ZW8wKzYzNE10U1JFcksrMGdreUVEa2NZTmhCRVViVnJvRGFyYmlEWWxWamdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQyODM2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4yOV94NjQtc2V0dXAuZXhlCmNLREtJbHdLcURTSFcxMFBZeDVoS0FhaGdqR0ZNc2ZYVmgwdU14WGhaWXJCUGxXV3JwVmVwb0VYeVo5RWJjQjJZT3NSL2xkZDh3Qlk5RThuYkFXQUJRPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.30/CamuriSeguridad_0.2.30_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitNbS9zdXRyTHNGVlJVKzh4dlNYSHZjdFJxdTlZZi9oeFplNFRiNXhZc0p3NnJUQ01GMjZNZ1lFMm1ZZXBFWk9TZDJNc1BlekVVSklZNFdDRDNFTEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIxMjczCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zMF94NjQtc2V0dXAuZXhlCjdxNzY2WW94TFYwcUlnaVVtZEczcyt0d2ErS1lsdUJmRElNSG1MSDczdGd1SEFTNHFjdHhDNWVRS3hNMytoaXRhcVhUdEFGbG05SUZ6NlFMcU1RYkJ3PT0K"
     }
-  },
-  "pub_date": "2026-10-21T00:33:57Z",
-  "notes": "Las cajas de cada apartamento y el buscador resaltan el borde con el raton (azul de la marca) y el texto se lee con mas contraste: pensado para que las personas mayores no pierdan el sitio en la rejilla."
+  }
 }
