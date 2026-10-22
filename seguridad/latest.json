@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-21T22:21:13Z",
-  "notes": "La foto de la cedula en la lista de familiares, buscador por cedula y el poder del visitante programado en PDF (feature #224)",
-  "version": "0.2.30",
+  "pub_date": "2026-10-22T12:49:32Z",
+  "notes": "La cedula y la foto del DOCUMENTO de identidad en toda visita programada, y el poder opcional para el trabajador (feature #227)",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.30/CamuriSeguridad_0.2.30_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitNbS9zdXRyTHNGVlJVKzh4dlNYSHZjdFJxdTlZZi9oeFplNFRiNXhZc0p3NnJUQ01GMjZNZ1lFMm1ZZXBFWk9TZDJNc1BlekVVSklZNFdDRDNFTEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIxMjczCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zMF94NjQtc2V0dXAuZXhlCjdxNzY2WW94TFYwcUlnaVVtZEczcyt0d2ErS1lsdUJmRElNSG1MSDczdGd1SEFTNHFjdHhDNWVRS3hNMytoaXRhcVhUdEFGbG05SUZ6NlFMcU1RYkJ3PT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.31/CamuriSeguridad_0.2.31_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mjk5L2NzcW5XQWgybzl0MlFxWWVaeWRvYnpkbUdaeURuOVl5cmhEQlE1K09LVTZ1VEpJYmVxUzczdldzd0FOcEZZMTQrSFVFN1lTNTErVkNGNDlxcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjczMzcyCWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zMV94NjQtc2V0dXAuZXhlCnBlRXpybTdBKzJGN0p3enIxdlVtdUxoOXVMS0NKR1RNU0l3ZURqV0NLSTFvWTYycTNsajI1cEduQ3lpd29qVnRGMG5Yemw1K2paV0JHSHd2eFhpa0RBPT0K"
     }
-  }
+  },
+  "version": "0.2.31"
 }
