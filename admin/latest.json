@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjhYTEVuM09wRXBFcWMrTVBGZXpDMHI3WlNEZXU5MzNYMElnbjNEcGdGWjFXUlJMdDY5dm5BZENVdGRyQXRWVlRhVzJ2aUxmQ0hZa0FSS3FDaUhjMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2NjAyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM4X3g2NC1zZXR1cC5leGUKcktHVkJXdEZUQ0VJVWJGL1c2VmExMEVUZmNKRlFOSVBTbXRScTFDei82TkVZcUZ3QnNXQ2ZaelNzbGFXbzhyTWdabzlJUTlrTWRBQ2NtWXRVckJtQXc9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.38/CamuriAdmin_0.3.38_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.39/CamuriAdmin_0.3.39_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitPam9Jc1d5bkJDNXI0WDVOSWh3WDJiRDhJNTN6Nk9JMnM5KzVjYy9PUWlDWmwyaDUwWmFZVWVUS1UwRmF0bVNLZVJHbzJGSWcrWEE0Rnh1S3ZyTlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYzMjY2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM5X3g2NC1zZXR1cC5leGUKbkZtT0hyZDUrRENIaDhpNFZONGVEM2xIdFhFOUY0MnduVXRZRkdIemdEZTVpSUtPU0dER2hOa2RiZUUrd1hqQVkwb0puRzl6a01GS3I0Y0hXdkZyQ0E9PQo="
     }
   },
-  "pub_date": "2026-10-20T22:50:02Z",
-  "notes": "Documentos de propiedad: la junta consulta por apartamento el titulo de propiedad o el poder notariado que sube el propietario, con su PDF y su estado de revision. Mejoras de rendimiento en el perfil del propietario y en el registro de documentos.",
-  "version": "0.3.38"
+  "notes": "Usuarios: crear usuario ya busca en los 345 apartamentos (no solo en los 14 sin cuenta), muestra quien ya tiene cuenta y avisa antes de intentar un alta duplicada. CamuriAdmin 0.3.39",
+  "version": "0.3.39",
+  "pub_date": "2026-10-24T17:34:28Z"
 }
