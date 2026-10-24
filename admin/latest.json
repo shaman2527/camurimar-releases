@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.39/CamuriAdmin_0.3.39_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MitPam9Jc1d5bkJDNXI0WDVOSWh3WDJiRDhJNTN6Nk9JMnM5KzVjYy9PUWlDWmwyaDUwWmFZVWVUS1UwRmF0bVNLZVJHbzJGSWcrWEE0Rnh1S3ZyTlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYzMjY2CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjM5X3g2NC1zZXR1cC5leGUKbkZtT0hyZDUrRENIaDhpNFZONGVEM2xIdFhFOUY0MnduVXRZRkdIemdEZTVpSUtPU0dER2hOa2RiZUUrd1hqQVkwb0puRzl6a01GS3I0Y0hXdkZyQ0E9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.40/CamuriAdmin_0.3.40_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjFhRXFpQ3dzL2dBU2M2Q3FjSTJBVjhZc01wYkI4NC9MSnErU05wY3NGY043eVduYThia3pNQ3Jva1N2REtkbGR0OFhZY094NWN3U1Q2VjZ3dnU1Y3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY5NTIyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQwX3g2NC1zZXR1cC5leGUKeTFsM3lwV1g4SUhGOTNwS3IwMk4vdzFqZVp1RzRldDFsQ2RqK1dSM1Z6NXVydXZ2TGUxeTlseUhnSmtHbTdnc0dHN1JTZjhCMmhXSFVTOGx1SEFNQmc9PQo="
     }
   },
-  "notes": "Usuarios: crear usuario ya busca en los 345 apartamentos (no solo en los 14 sin cuenta), muestra quien ya tiene cuenta y avisa antes de intentar un alta duplicada. CamuriAdmin 0.3.39",
-  "version": "0.3.39",
-  "pub_date": "2026-10-24T17:34:28Z"
+  "pub_date": "2026-10-24T19:18:43Z",
+  "version": "0.3.40",
+  "notes": "Usuarios: la junta puede PONER y REPONER la contrasena de una cuenta desde la app (clave de la junta en el momento, con acta). Entrada del propietario: el campo del correo ya no da el mensaje del @, el apartamento se normaliza (ab 7h -> AB-7H) y un espacio pegado ya no te deja fuera. CamuriAdmin 0.3.40"
 }
