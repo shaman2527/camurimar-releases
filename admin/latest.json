@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.40/CamuriAdmin_0.3.40_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjFhRXFpQ3dzL2dBU2M2Q3FjSTJBVjhZc01wYkI4NC9MSnErU05wY3NGY043eVduYThia3pNQ3Jva1N2REtkbGR0OFhZY094NWN3U1Q2VjZ3dnU1Y3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY5NTIyCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQwX3g2NC1zZXR1cC5leGUKeTFsM3lwV1g4SUhGOTNwS3IwMk4vdzFqZVp1RzRldDFsQ2RqK1dSM1Z6NXVydXZ2TGUxeTlseUhnSmtHbTdnc0dHN1JTZjhCMmhXSFVTOGx1SEFNQmc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnlVcFRIMkFOOXVZUktIODBidjFMZGFaZm00aUpxK281enV1UjNFT3ZNb0ZoVkRLY29ZMlhZdWlhcm9NUlQ2SURvQ0o0ZHpvVGtkV0pzSm4wcm9QcVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQzNTQzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQxX3g2NC1zZXR1cC5leGUKeWpleG9RUTZpaldNcjVpemoyRTdKTXFEbzZNQ0l3MnFhbStmdWdzVzZ0NlNuRDFNUXExeUZKcmFYMDBDVHlncG1vbU9qc2NaQjhwOWR4dnNodFlRQ1E9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.41/CamuriAdmin_0.3.41_x64-setup.exe"
     }
   },
-  "pub_date": "2026-10-24T19:18:43Z",
-  "version": "0.3.40",
-  "notes": "Usuarios: la junta puede PONER y REPONER la contrasena de una cuenta desde la app (clave de la junta en el momento, con acta). Entrada del propietario: el campo del correo ya no da el mensaje del @, el apartamento se normaliza (ab 7h -> AB-7H) y un espacio pegado ya no te deja fuera. CamuriAdmin 0.3.40"
+  "version": "0.3.41",
+  "pub_date": "2026-10-25T15:52:24Z",
+  "notes": "El 'en vivo' ya no abre el socket de Realtime con un token invalido: se comprueba que el token sea un JWT vigente y, si no lo es, la pantalla sigue con su sondeo sin ensuciar los logs de Supabase. CamuriAdmin 0.3.41"
 }
