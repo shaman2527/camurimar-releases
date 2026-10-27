@@ -1,11 +1,11 @@
 {
-  "version": "0.2.32",
-  "pub_date": "2026-10-25T15:58:26Z",
-  "notes": "El 'en vivo' de la garita ya no abre el socket de Realtime con un token invalido: se comprueba que sea un JWT vigente y, si no, la garita sigue con su sondeo sin ensuciar los logs de Supabase. CamuriSeguridad 0.2.32",
+  "version": "0.2.33",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.32/CamuriSeguridad_0.2.32_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjhSZ0s3TEZvYVBPcExJTnQyRFF3V3dLdUJWME5DaVB3MDJJek9qNFkwNXliVXJxMmJQekszR05XS2dXZUxCcjZheGNscitZWmJPVTRrRnFNcWVGZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQzOTA2CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zMl94NjQtc2V0dXAuZXhlCndycElOcTBhU0tCRHJzNkgwTEdNcWdrYmQ2QzkyL0dVQXFCZk4xeDlKUWdKVEw2eGZid2RyeGJDTHhCZ01kbFZJNWJZWE5NWVRZTnJkbTVybGoxYkNnPT0K"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.33/CamuriSeguridad_0.2.33_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjMxeXFTWXNkNUE1Z2dySDJlRHplRWM5elB5ZGpoQ1VHV2hkRGhXbUhCdmtBbUNIRTVuMTg3K3g3MFh2anl3WDFISzhoOVA3Rmc5U0tCYWJjaHFERVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0MjA4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zM194NjQtc2V0dXAuZXhlCmd4YnBkV3lvd1oxdWdZVmNXRkVEVGR4WkNRaWxsM1NYSXFOU0svczJ5MFFqcldlVElqazBZZFVxdGNrL0N0QS9BbDlYZmlQZmUzV0hvY2x4VUNMK0JRPT0K"
     }
-  }
+  },
+  "notes": "La garita ve el telefono del propietario y del familiar, y la foto de la cedula se puede girar",
+  "pub_date": "2026-10-27T15:16:49Z"
 }
