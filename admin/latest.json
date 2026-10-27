@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnlVcFRIMkFOOXVZUktIODBidjFMZGFaZm00aUpxK281enV1UjNFT3ZNb0ZoVkRLY29ZMlhZdWlhcm9NUlQ2SURvQ0o0ZHpvVGtkV0pzSm4wcm9QcVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQzNTQzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQxX3g2NC1zZXR1cC5leGUKeWpleG9RUTZpaldNcjVpemoyRTdKTXFEbzZNQ0l3MnFhbStmdWdzVzZ0NlNuRDFNUXExeUZKcmFYMDBDVHlncG1vbU9qc2NaQjhwOWR4dnNodFlRQ1E9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.41/CamuriAdmin_0.3.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mno0UWRQVmRHYXZ6dGxNMm91ZGlESmxabm1aZkRoaEprV3M1bFQwTGtQREJwcVFBdHF4aEpLYVROdlFwNG5XTG1hTVZxVlBBM3VYZ2RQT05lcnhCM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEyMDI1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQyX3g2NC1zZXR1cC5leGUKczN2QUFkcFJRVHdkMmVTa1pUMnhwdnkxWnN0VXQ0V3RtSXFvb3dQYnpPSFpueHlnMmhWNWUyekxXYzh2cWMvUThXVGh2RXg1QjRPVGp6Y04yMDIyQ0E9PQo=",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.42/CamuriAdmin_0.3.42_x64-setup.exe"
     }
   },
-  "version": "0.3.41",
-  "pub_date": "2026-10-25T15:52:24Z",
-  "notes": "El 'en vivo' ya no abre el socket de Realtime con un token invalido: se comprueba que el token sea un JWT vigente y, si no lo es, la pantalla sigue con su sondeo sin ensuciar los logs de Supabase. CamuriAdmin 0.3.41"
+  "pub_date": "2026-10-27T14:40:26Z",
+  "notes": "Telefono del titular editable, flechas de propietario principal, una sola ventana para titular y propietarios, y aprobar o rechazar todas las solicitudes de una vez",
+  "version": "0.3.42"
 }
