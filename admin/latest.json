@@ -1,11 +1,11 @@
 {
+  "version": "0.3.43",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2Mno0UWRQVmRHYXZ6dGxNMm91ZGlESmxabm1aZkRoaEprV3M1bFQwTGtQREJwcVFBdHF4aEpLYVROdlFwNG5XTG1hTVZxVlBBM3VYZ2RQT05lcnhCM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEyMDI1CWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQyX3g2NC1zZXR1cC5leGUKczN2QUFkcFJRVHdkMmVTa1pUMnhwdnkxWnN0VXQ0V3RtSXFvb3dQYnpPSFpueHlnMmhWNWUyekxXYzh2cWMvUThXVGh2RXg1QjRPVGp6Y04yMDIyQ0E9PQo=",
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.42/CamuriAdmin_0.3.42_x64-setup.exe"
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.43/CamuriAdmin_0.3.43_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNuQkRlaUs1LzdEdG10cU9rb1Q1RnJ4VWJaTWIvM1FUb0h1NXRJTlNwRVhiUm4waURYT3VvWVdJZ3lMNGhkNzlwMlBiQUJvcVlPaVErQXVJOCtFM0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM0NzkzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQzX3g2NC1zZXR1cC5leGUKTytRdmtQM0h3djhqOUFjTmpZc1F5eWZ1VitJZ0dxdW1oMWwxcUV3a3F2c2IvdXhLcTltNnJXT2xnSEs4ZThmV1lYZ3JBMERvM0p4RnhLdVBqWFBMQkE9PQo="
     }
   },
-  "pub_date": "2026-10-27T14:40:26Z",
-  "notes": "Telefono del titular editable, flechas de propietario principal, una sola ventana para titular y propietarios, y aprobar o rechazar todas las solicitudes de una vez",
-  "version": "0.3.42"
+  "notes": "En Solicitudes se pueden marcar las que se quieran y aprobar o rechazar solo esas, ademas del lote completo",
+  "pub_date": "2026-10-27T20:59:54Z"
 }
