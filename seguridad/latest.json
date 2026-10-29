@@ -1,11 +1,11 @@
 {
-  "version": "0.2.33",
+  "version": "0.2.34",
+  "pub_date": "2026-10-29T05:32:05Z",
+  "notes": "La garita instalada deja de tapar los campos con la lista de familiares: se ven SEIS, el buscador manda, el buscador se ve de verdad y el parentesco Otro queda marcado",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.33/CamuriSeguridad_0.2.33_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjMxeXFTWXNkNUE1Z2dySDJlRHplRWM5elB5ZGpoQ1VHV2hkRGhXbUhCdmtBbUNIRTVuMTg3K3g3MFh2anl3WDFISzhoOVA3Rmc5U0tCYWJjaHFERVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0MjA4CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zM194NjQtc2V0dXAuZXhlCmd4YnBkV3lvd1oxdWdZVmNXRkVEVGR4WkNRaWxsM1NYSXFOU0svczJ5MFFqcldlVElqazBZZFVxdGNrL0N0QS9BbDlYZmlQZmUzV0hvY2x4VUNMK0JRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNQdzF3d3IwNW1VYjBzTzJHdEFiemlEYXo2aW5sRC96cFdkYmxWUmJSSzc0ZEo5QUpYVjRidVpKamcybXRkVGQyMFBRWnZrZTZ0OWh3VmRGMEFNZUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjUxOTI0CWZpbGU6Q2FtdXJpU2VndXJpZGFkXzAuMi4zNF94NjQtc2V0dXAuZXhlCnFKTFZlcmVzNGlxZFlMa2pyZEJtWTNpWGd3R2VlZ2Z5bEhnRUZJaXA0QkMzMklOak9FcGxNWjlrV2YxMW9iSUxSK09QMXhzTkpDenVObDRlUm9tTUR3PT0K",
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/seguridad-v0.2.34/CamuriSeguridad_0.2.34_x64-setup.exe"
     }
-  },
-  "notes": "La garita ve el telefono del propietario y del familiar, y la foto de la cedula se puede girar",
-  "pub_date": "2026-10-27T15:16:49Z"
+  }
 }
