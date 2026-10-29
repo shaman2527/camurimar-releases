@@ -1,11 +1,11 @@
 {
-  "version": "0.3.43",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.43/CamuriAdmin_0.3.43_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MjNuQkRlaUs1LzdEdG10cU9rb1Q1RnJ4VWJaTWIvM1FUb0h1NXRJTlNwRVhiUm4waURYT3VvWVdJZ3lMNGhkNzlwMlBiQUJvcVlPaVErQXVJOCtFM0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM0NzkzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQzX3g2NC1zZXR1cC5leGUKTytRdmtQM0h3djhqOUFjTmpZc1F5eWZ1VitJZ0dxdW1oMWwxcUV3a3F2c2IvdXhLcTltNnJXT2xnSEs4ZThmV1lYZ3JBMERvM0p4RnhLdVBqWFBMQkE9PQo="
+      "url": "https://github.com/shaman2527/camurimar-releases/releases/download/admin-v0.3.44/CamuriAdmin_0.3.44_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTDRhazVRbzE2MnpDNHhvQVN0Tm1lKzNDY1FJTFlJWTQ5RmtSMllVcmZoSWxmNFFsTURIajhBZGtlZWUvSmFhalRFak5qMXo1SWQyblBJa09xRDArdWw5QmhnbXdNUXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjUyMjAzCWZpbGU6Q2FtdXJpQWRtaW5fMC4zLjQ0X3g2NC1zZXR1cC5leGUKaXluOUxMb0k5SVNzdmY1TkhyNGRhTkRyUnNIZTA3NVJuYlRFR0xzVkpGMXEzVjVnb1RGUTVNdjJSTncveXRaTTZnYmtwaWkyUnI5cFR4ZlRMN0IyQnc9PQo="
     }
   },
-  "notes": "En Solicitudes se pueden marcar las que se quieran y aprobar o rechazar solo esas, ademas del lote completo",
-  "pub_date": "2026-10-27T20:59:54Z"
+  "pub_date": "2026-10-29T05:36:43Z",
+  "notes": "La cedula del familiar se puede dejar vacia (y NT ya no es un error), con aviso antes de borrar una cedula real; el parentesco Otro queda marcado al aprobar",
+  "version": "0.3.44"
 }
